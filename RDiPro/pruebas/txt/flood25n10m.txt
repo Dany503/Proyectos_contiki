@@ -1,0 +1,760 @@
+00:00.888	ID:24	Rime started with address 24.0
+00:00.896	ID:24	MAC 18:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 24.
+00:00.901	ID:24	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.902	ID:24	Starting ''
+00:00.925	ID:8	Rime started with address 8.0
+00:00.933	ID:8	MAC 08:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 8.
+00:00.939	ID:8	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.940	ID:8	Starting ''
+00:01.043	ID:11	Rime started with address 11.0
+00:01.051	ID:11	MAC 0b:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 11.
+00:01.057	ID:11	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.058	ID:11	Starting ''
+00:01.088	ID:2	Rime started with address 2.0
+00:01.097	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 2.
+00:01.102	ID:2	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.103	ID:6	Rime started with address 6.0
+00:01.103	ID:2	Starting ''
+00:01.111	ID:6	MAC 06:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 6.
+00:01.117	ID:6	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.118	ID:6	Starting ''
+00:01.179	ID:18	Rime started with address 18.0
+00:01.187	ID:18	MAC 12:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 18.
+00:01.193	ID:18	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.194	ID:18	Starting ''
+00:01.201	ID:4	Rime started with address 4.0
+00:01.209	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 4.
+00:01.214	ID:4	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.215	ID:4	Starting ''
+00:01.235	ID:1	Rime started with address 1.0
+00:01.243	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 1.
+00:01.248	ID:1	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.249	ID:1	Starting ''
+00:01.254	ID:7	Rime started with address 7.0
+00:01.262	ID:7	MAC 07:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 7.
+00:01.268	ID:7	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.269	ID:7	Starting ''
+00:01.303	ID:14	Rime started with address 14.0
+00:01.311	ID:14	MAC 0e:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 14.
+00:01.315	ID:15	Rime started with address 15.0
+00:01.316	ID:14	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.317	ID:14	Starting ''
+00:01.320	ID:25	Rime started with address 25.0
+00:01.323	ID:15	MAC 0f:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 15.
+00:01.325	ID:20	Rime started with address 20.0
+00:01.325	ID:16	Rime started with address 16.0
+00:01.328	ID:25	MAC 19:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 25.
+00:01.329	ID:15	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.330	ID:15	Starting ''
+00:01.333	ID:20	MAC 14:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 20.
+00:01.334	ID:16	MAC 10:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 16.
+00:01.334	ID:25	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.335	ID:25	Starting ''
+00:01.339	ID:20	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.339	ID:16	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.340	ID:20	Starting ''
+00:01.340	ID:16	Starting ''
+00:01.409	ID:10	Rime started with address 10.0
+00:01.417	ID:10	MAC 0a:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 10.
+00:01.423	ID:10	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.424	ID:10	Starting ''
+00:01.447	ID:12	Rime started with address 12.0
+00:01.455	ID:12	MAC 0c:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 12.
+00:01.461	ID:12	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.462	ID:12	Starting ''
+00:01.516	ID:22	Rime started with address 22.0
+00:01.524	ID:22	MAC 16:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 22.
+00:01.529	ID:22	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.530	ID:22	Starting ''
+00:01.561	ID:9	Rime started with address 9.0
+00:01.567	ID:5	Rime started with address 5.0
+00:01.569	ID:9	MAC 09:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 9.
+00:01.572	ID:19	Rime started with address 19.0
+00:01.575	ID:9	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.575	ID:9	Starting ''
+00:01.576	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 5.
+00:01.580	ID:19	MAC 13:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 19.
+00:01.581	ID:5	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.582	ID:5	Starting ''
+00:01.585	ID:19	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.586	ID:19	Starting ''
+00:01.662	ID:17	Rime started with address 17.0
+00:01.670	ID:17	MAC 11:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 17.
+00:01.675	ID:17	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.676	ID:17	Starting ''
+00:01.736	ID:13	Rime started with address 13.0
+00:01.745	ID:13	MAC 0d:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 13.
+00:01.750	ID:13	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.751	ID:13	Starting ''
+00:01.752	ID:3	Rime started with address 3.0
+00:01.759	ID:21	Rime started with address 21.0
+00:01.760	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 3.
+00:01.765	ID:3	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.766	ID:3	Starting ''
+00:01.767	ID:21	MAC 15:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 21.
+00:01.773	ID:21	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.774	ID:21	Starting ''
+00:01.798	ID:23	Rime started with address 23.0
+00:01.806	ID:23	MAC 17:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 23.
+00:01.812	ID:23	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.812	ID:23	Starting ''
+02:58.103	ID:1	1.0: netflood sending 'Hej', with seq no. 0
+02:58.103	ID:1	sent
+02:58.120	ID:6	recv 'Hej', from 1.0 (origin 1.0) in 0 hops (seq 0) 
+02:58.124	ID:6	6.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 0
+02:58.126	ID:6	6.0: netflood send to ipolite
+02:58.232	ID:2	recv 'Hej', from 1.0 (origin 1.0) in 0 hops (seq 0) 
+02:58.236	ID:2	2.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 0
+02:58.238	ID:2	2.0: netflood send to ipolite
+02:58.922	ID:6	sent
+02:59.021	ID:7	recv 'Hej', from 6.0 (origin 1.0) in 1 hops (seq 0) 
+02:59.025	ID:7	7.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 1
+02:59.027	ID:7	7.0: netflood send to ipolite
+02:59.032	ID:2	sent
+02:59.144	ID:7	dropped
+02:59.145	ID:3	recv 'Hej', from 2.0 (origin 1.0) in 1 hops (seq 0) 
+02:59.149	ID:3	3.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 1
+02:59.151	ID:3	3.0: netflood send to ipolite
+02:59.946	ID:3	sent
+02:59.967	ID:4	recv 'Hej', from 3.0 (origin 1.0) in 2 hops (seq 0) 
+02:59.971	ID:4	4.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 2
+02:59.974	ID:4	4.0: netflood send to ipolite
+03:00.069	ID:8	recv 'Hej', from 3.0 (origin 1.0) in 2 hops (seq 0) 
+03:00.073	ID:8	8.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 2
+03:00.075	ID:8	8.0: netflood send to ipolite
+03:00.770	ID:4	sent
+03:00.829	ID:9	recv 'Hej', from 4.0 (origin 1.0) in 3 hops (seq 0) 
+03:00.833	ID:9	9.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 3
+03:00.834	ID:5	recv 'Hej', from 4.0 (origin 1.0) in 3 hops (seq 0) 
+03:00.835	ID:9	9.0: netflood send to ipolite
+03:00.838	ID:5	5.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 3
+03:00.840	ID:5	5.0: netflood send to ipolite
+03:00.869	ID:8	sent
+03:01.003	ID:13	recv 'Hej', from 8.0 (origin 1.0) in 3 hops (seq 0) 
+03:01.007	ID:13	13.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 3
+03:01.009	ID:13	13.0: netflood send to ipolite
+03:01.630	ID:9	sent
+03:01.636	ID:5	sent
+03:01.805	ID:13	sent
+03:01.822	ID:18	recv 'Hej', from 13.0 (origin 1.0) in 4 hops (seq 0) 
+03:01.826	ID:18	18.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 4
+03:01.828	ID:18	18.0: netflood send to ipolite
+03:01.840	ID:12	recv 'Hej', from 13.0 (origin 1.0) in 4 hops (seq 0) 
+03:01.845	ID:12	12.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 4
+03:01.847	ID:12	12.0: netflood send to ipolite
+03:01.944	ID:14	recv 'Hej', from 13.0 (origin 1.0) in 4 hops (seq 0) 
+03:01.949	ID:14	14.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 4
+03:01.951	ID:14	14.0: netflood send to ipolite
+03:02.623	ID:18	sent
+03:02.641	ID:12	sent
+03:02.746	ID:14	sent
+03:02.832	ID:15	recv 'Hej', from 14.0 (origin 1.0) in 5 hops (seq 0) 
+03:02.836	ID:15	15.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 5
+03:02.839	ID:15	15.0: netflood send to ipolite
+03:02.840	ID:19	recv 'Hej', from 14.0 (origin 1.0) in 5 hops (seq 0) 
+03:02.844	ID:19	19.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 5
+03:02.847	ID:19	19.0: netflood send to ipolite
+03:03.634	ID:15	sent
+03:03.640	ID:19	sent
+03:03.780	ID:24	recv 'Hej', from 19.0 (origin 1.0) in 6 hops (seq 0) 
+03:03.784	ID:24	24.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 6
+03:03.786	ID:24	24.0: netflood send to ipolite
+03:04.581	ID:24	sent
+03:04.691	ID:23	recv 'Hej', from 24.0 (origin 1.0) in 7 hops (seq 0) 
+03:04.695	ID:23	23.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+03:04.698	ID:23	23.0: netflood send to ipolite
+03:04.713	ID:25	recv 'Hej', from 24.0 (origin 1.0) in 7 hops (seq 0) 
+03:04.717	ID:25	25.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+03:04.719	ID:25	25.0: netflood send to ipolite
+03:05.491	ID:23	sent
+03:05.514	ID:25	sent
+05:04.943	ID:7	7.0: netflood sending 'Hej', with seq no. 0
+05:04.943	ID:7	sent
+05:04.965	ID:12	recv 'Hej', from 7.0 (origin 7.0) in 0 hops (seq 0) 
+05:04.969	ID:12	12.0: netflood rebroadcasting 7.0/0 (1.0/0) hops 0
+05:04.972	ID:12	12.0: netflood send to ipolite
+05:04.981	ID:2	recv 'Hej', from 7.0 (origin 7.0) in 0 hops (seq 0) 
+05:04.985	ID:2	2.0: netflood rebroadcasting 7.0/0 (1.0/0) hops 0
+05:04.987	ID:2	2.0: netflood send to ipolite
+05:04.994	ID:6	recv 'Hej', from 7.0 (origin 7.0) in 0 hops (seq 0) 
+05:04.998	ID:6	6.0: netflood rebroadcasting 7.0/0 (1.0/0) hops 0
+05:05.001	ID:6	6.0: netflood send to ipolite
+05:05.066	ID:8	recv 'Hej', from 7.0 (origin 7.0) in 0 hops (seq 0) 
+05:05.070	ID:8	8.0: netflood rebroadcasting 7.0/0 (1.0/0) hops 0
+05:05.073	ID:8	8.0: netflood send to ipolite
+05:05.945	ID:12	sent
+05:05.962	ID:2	sent
+05:05.976	ID:6	sent
+05:06.049	ID:8	sent
+05:06.129	ID:13	recv 'Hej', from 8.0 (origin 7.0) in 1 hops (seq 0) 
+05:06.133	ID:13	13.0: netflood rebroadcasting 7.0/0 (1.0/0) hops 1
+05:06.135	ID:13	13.0: netflood send to ipolite
+05:06.145	ID:3	recv 'Hej', from 8.0 (origin 7.0) in 1 hops (seq 0) 
+05:06.149	ID:3	3.0: netflood rebroadcasting 7.0/0 (1.0/0) hops 1
+05:06.151	ID:3	3.0: netflood send to ipolite
+05:07.110	ID:13	sent
+05:07.125	ID:3	sent
+05:07.195	ID:18	recv 'Hej', from 13.0 (origin 7.0) in 2 hops (seq 0) 
+05:07.199	ID:18	18.0: netflood rebroadcasting 7.0/0 (1.0/0) hops 2
+05:07.202	ID:18	18.0: netflood send to ipolite
+05:08.177	ID:18	sent
+05:08.215	ID:19	recv 'Hej', from 18.0 (origin 7.0) in 3 hops (seq 0) 
+05:08.219	ID:19	19.0: netflood rebroadcasting 7.0/0 (1.0/0) hops 3
+05:08.222	ID:19	19.0: netflood send to ipolite
+05:08.303	ID:17	recv 'Hej', from 18.0 (origin 7.0) in 3 hops (seq 0) 
+05:08.307	ID:17	17.0: netflood rebroadcasting 7.0/0 (0.0/0) hops 3
+05:08.310	ID:17	17.0: netflood send to ipolite
+05:08.316	ID:23	recv 'Hej', from 18.0 (origin 7.0) in 3 hops (seq 0) 
+05:08.321	ID:23	23.0: netflood rebroadcasting 7.0/0 (1.0/0) hops 3
+05:08.323	ID:23	23.0: netflood send to ipolite
+05:09.105	ID:17	sent
+05:09.159	ID:22	recv 'Hej', from 17.0 (origin 7.0) in 4 hops (seq 0) 
+05:09.163	ID:22	22.0: netflood rebroadcasting 7.0/0 (0.0/0) hops 4
+05:09.166	ID:22	22.0: netflood send to ipolite
+05:09.195	ID:19	sent
+05:09.217	ID:20	recv 'Hej', from 19.0 (origin 7.0) in 4 hops (seq 0) 
+05:09.218	ID:16	recv 'Hej', from 17.0 (origin 7.0) in 4 hops (seq 0) 
+05:09.221	ID:20	20.0: netflood rebroadcasting 7.0/0 (0.0/0) hops 4
+05:09.222	ID:16	16.0: netflood rebroadcasting 7.0/0 (0.0/0) hops 4
+05:09.223	ID:20	20.0: netflood send to ipolite
+05:09.224	ID:16	16.0: netflood send to ipolite
+05:09.280	ID:24	recv 'Hej', from 19.0 (origin 7.0) in 4 hops (seq 0) 
+05:09.285	ID:24	24.0: netflood rebroadcasting 7.0/0 (1.0/0) hops 4
+05:09.287	ID:24	24.0: netflood send to ipolite
+05:09.296	ID:23	sent
+05:09.402	ID:24	dropped
+05:09.405	ID:22	dropped
+05:10.019	ID:20	sent
+05:10.019	ID:16	sent
+05:10.060	ID:11	recv 'Hej', from 16.0 (origin 7.0) in 5 hops (seq 0) 
+05:10.064	ID:11	11.0: netflood rebroadcasting 7.0/0 (0.0/0) hops 5
+05:10.066	ID:11	11.0: netflood send to ipolite
+05:10.083	ID:15	recv 'Hej', from 20.0 (origin 7.0) in 5 hops (seq 0) 
+05:10.088	ID:15	15.0: netflood rebroadcasting 7.0/0 (1.0/0) hops 5
+05:10.089	ID:25	recv 'Hej', from 20.0 (origin 7.0) in 5 hops (seq 0) 
+05:10.090	ID:15	15.0: netflood send to ipolite
+05:10.093	ID:25	25.0: netflood rebroadcasting 7.0/0 (1.0/0) hops 5
+05:10.095	ID:25	25.0: netflood send to ipolite
+05:10.153	ID:21	recv 'Hej', from 16.0 (origin 7.0) in 5 hops (seq 0) 
+05:10.157	ID:21	21.0: netflood rebroadcasting 7.0/0 (0.0/0) hops 5
+05:10.159	ID:21	21.0: netflood send to ipolite
+05:10.862	ID:11	sent
+05:10.953	ID:21	sent
+05:11.063	ID:15	sent
+05:11.068	ID:25	sent
+05:11.176	ID:10	recv 'Hej', from 15.0 (origin 7.0) in 6 hops (seq 0) 
+05:11.180	ID:10	10.0: netflood rebroadcasting 7.0/0 (0.0/0) hops 6
+05:11.182	ID:10	10.0: netflood send to ipolite
+05:11.978	ID:10	sent
+05:12.080	ID:9	recv 'Hej', from 10.0 (origin 7.0) in 7 hops (seq 0) 
+05:12.084	ID:9	9.0: netflood rebroadcasting 7.0/0 (1.0/0) hops 7
+05:12.085	ID:5	recv 'Hej', from 10.0 (origin 7.0) in 7 hops (seq 0) 
+05:12.086	ID:9	9.0: netflood send to ipolite
+05:12.089	ID:5	5.0: netflood rebroadcasting 7.0/0 (1.0/0) hops 7
+05:12.091	ID:5	5.0: netflood send to ipolite
+05:13.059	ID:9	sent
+05:13.066	ID:5	sent
+05:28.581	ID:13	13.0: netflood sending 'Hej', with seq no. 0
+05:28.582	ID:13	sent
+05:28.691	ID:8	recv 'Hej', from 13.0 (origin 13.0) in 0 hops (seq 0) 
+05:28.694	ID:14	recv 'Hej', from 13.0 (origin 13.0) in 0 hops (seq 0) 
+05:28.695	ID:8	8.0: netflood rebroadcasting 13.0/0 (7.0/0) hops 0
+05:28.697	ID:18	recv 'Hej', from 13.0 (origin 13.0) in 0 hops (seq 0) 
+05:28.698	ID:8	8.0: netflood send to ipolite
+05:28.698	ID:14	14.0: netflood rebroadcasting 13.0/0 (1.0/0) hops 0
+05:28.701	ID:14	14.0: netflood send to ipolite
+05:28.701	ID:18	18.0: netflood rebroadcasting 13.0/0 (7.0/0) hops 0
+05:28.703	ID:18	18.0: netflood send to ipolite
+05:28.715	ID:12	recv 'Hej', from 13.0 (origin 13.0) in 0 hops (seq 0) 
+05:28.720	ID:12	12.0: netflood rebroadcasting 13.0/0 (7.0/0) hops 0
+05:28.722	ID:12	12.0: netflood send to ipolite
+05:29.588	ID:8	sent
+05:29.591	ID:18	sent
+05:29.609	ID:12	sent
+05:29.676	ID:14	sent
+06:17.448	ID:19	19.0: netflood sending 'Hej', with seq no. 0
+06:17.448	ID:19	sent
+06:17.467	ID:20	recv 'Hej', from 19.0 (origin 19.0) in 0 hops (seq 0) 
+06:17.471	ID:20	20.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 0
+06:17.474	ID:20	20.0: netflood send to ipolite
+06:17.531	ID:24	recv 'Hej', from 19.0 (origin 19.0) in 0 hops (seq 0) 
+06:17.535	ID:24	24.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 0
+06:17.538	ID:24	24.0: netflood send to ipolite
+06:17.571	ID:14	recv 'Hej', from 19.0 (origin 19.0) in 0 hops (seq 0) 
+06:17.571	ID:18	recv 'Hej', from 19.0 (origin 19.0) in 0 hops (seq 0) 
+06:17.576	ID:14	14.0: netflood rebroadcasting 19.0/0 (13.0/0) hops 0
+06:17.576	ID:18	18.0: netflood rebroadcasting 19.0/0 (13.0/0) hops 0
+06:17.578	ID:14	14.0: netflood send to ipolite
+06:17.578	ID:18	18.0: netflood send to ipolite
+06:18.099	ID:18	sent
+06:18.129	ID:13	recv 'Hej', from 18.0 (origin 19.0) in 1 hops (seq 0) 
+06:18.133	ID:13	13.0: netflood rebroadcasting 19.0/0 (13.0/0) hops 1
+06:18.136	ID:13	13.0: netflood send to ipolite
+06:18.180	ID:17	recv 'Hej', from 18.0 (origin 19.0) in 1 hops (seq 0) 
+06:18.184	ID:17	17.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 1
+06:18.186	ID:17	17.0: netflood send to ipolite
+06:18.190	ID:23	recv 'Hej', from 18.0 (origin 19.0) in 1 hops (seq 0) 
+06:18.195	ID:23	23.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 1
+06:18.197	ID:23	23.0: netflood send to ipolite
+06:18.425	ID:24	sent
+06:18.438	ID:23	dropped
+06:18.448	ID:20	sent
+06:18.465	ID:14	sent
+06:19.024	ID:13	sent
+06:19.067	ID:8	recv 'Hej', from 13.0 (origin 19.0) in 2 hops (seq 0) 
+06:19.071	ID:8	8.0: netflood rebroadcasting 19.0/0 (13.0/0) hops 2
+06:19.073	ID:8	8.0: netflood send to ipolite
+06:19.088	ID:12	recv 'Hej', from 13.0 (origin 19.0) in 2 hops (seq 0) 
+06:19.093	ID:12	12.0: netflood rebroadcasting 19.0/0 (13.0/0) hops 2
+06:19.095	ID:12	12.0: netflood send to ipolite
+06:19.160	ID:17	sent
+06:19.210	ID:12	dropped
+06:19.219	ID:16	recv 'Hej', from 17.0 (origin 19.0) in 2 hops (seq 0) 
+06:19.223	ID:16	16.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 2
+06:19.226	ID:16	16.0: netflood send to ipolite
+06:19.283	ID:22	recv 'Hej', from 17.0 (origin 19.0) in 2 hops (seq 0) 
+06:19.287	ID:22	22.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 2
+06:19.290	ID:22	22.0: netflood send to ipolite
+06:19.595	ID:8	sent
+06:19.644	ID:3	recv 'Hej', from 8.0 (origin 19.0) in 3 hops (seq 0) 
+06:19.646	ID:7	recv 'Hej', from 8.0 (origin 19.0) in 3 hops (seq 0) 
+06:19.648	ID:3	3.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 3
+06:19.650	ID:3	3.0: netflood send to ipolite
+06:19.651	ID:7	7.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 3
+06:19.653	ID:7	7.0: netflood send to ipolite
+06:19.703	ID:9	recv 'Hej', from 8.0 (origin 19.0) in 3 hops (seq 0) 
+06:19.707	ID:9	9.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 3
+06:19.709	ID:9	9.0: netflood send to ipolite
+06:20.092	ID:22	sent
+06:20.151	ID:21	recv 'Hej', from 22.0 (origin 19.0) in 3 hops (seq 0) 
+06:20.156	ID:21	21.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 3
+06:20.158	ID:21	21.0: netflood send to ipolite
+06:20.199	ID:16	sent
+06:20.273	ID:21	dropped
+06:20.311	ID:11	recv 'Hej', from 16.0 (origin 19.0) in 3 hops (seq 0) 
+06:20.315	ID:11	11.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 3
+06:20.318	ID:11	11.0: netflood send to ipolite
+06:20.539	ID:3	sent
+06:20.593	ID:4	recv 'Hej', from 3.0 (origin 19.0) in 4 hops (seq 0) 
+06:20.597	ID:4	4.0: netflood rebroadcasting 19.0/0 (1.0/0) hops 4
+06:20.598	ID:9	sent
+06:20.599	ID:4	4.0: netflood send to ipolite
+06:20.604	ID:2	recv 'Hej', from 3.0 (origin 19.0) in 4 hops (seq 0) 
+06:20.608	ID:2	2.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 4
+06:20.610	ID:2	2.0: netflood send to ipolite
+06:20.628	ID:7	sent
+06:20.745	ID:6	recv 'Hej', from 7.0 (origin 19.0) in 4 hops (seq 0) 
+06:20.749	ID:6	6.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 4
+06:20.752	ID:6	6.0: netflood send to ipolite
+06:21.291	ID:11	sent
+06:21.368	ID:6	dropped
+06:21.501	ID:2	sent
+06:21.574	ID:4	sent
+06:21.627	ID:1	recv 'Hej', from 2.0 (origin 19.0) in 5 hops (seq 0) 
+06:21.631	ID:1	1.0: netflood rebroadcasting 19.0/0 (1.0/0) hops 5
+06:21.633	ID:1	1.0: netflood send to ipolite
+06:21.711	ID:5	recv 'Hej', from 4.0 (origin 19.0) in 5 hops (seq 0) 
+06:21.715	ID:5	5.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 5
+06:21.717	ID:5	5.0: netflood send to ipolite
+06:22.288	ID:1	sent
+06:22.605	ID:5	sent
+06:22.678	ID:10	recv 'Hej', from 5.0 (origin 19.0) in 6 hops (seq 0) 
+06:22.682	ID:10	10.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 6
+06:22.684	ID:10	10.0: netflood send to ipolite
+06:23.657	ID:10	sent
+06:23.708	ID:15	recv 'Hej', from 10.0 (origin 19.0) in 7 hops (seq 0) 
+06:23.713	ID:15	15.0: netflood rebroadcasting 19.0/0 (7.0/0) hops 7
+06:23.715	ID:15	15.0: netflood send to ipolite
+06:24.602	ID:15	sent
+07:25.688	ID:25	25.0: netflood sending 'Hej', with seq no. 0
+07:25.689	ID:25	sent
+07:25.719	ID:20	recv 'Hej', from 25.0 (origin 25.0) in 0 hops (seq 0) 
+07:25.723	ID:20	20.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 0
+07:25.725	ID:20	20.0: netflood send to ipolite
+07:25.780	ID:24	recv 'Hej', from 25.0 (origin 25.0) in 0 hops (seq 0) 
+07:25.784	ID:24	24.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 0
+07:25.787	ID:24	24.0: netflood send to ipolite
+07:26.308	ID:24	sent
+07:26.340	ID:19	recv 'Hej', from 24.0 (origin 25.0) in 1 hops (seq 0) 
+07:26.344	ID:19	19.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 1
+07:26.347	ID:19	19.0: netflood send to ipolite
+07:26.441	ID:23	recv 'Hej', from 24.0 (origin 25.0) in 1 hops (seq 0) 
+07:26.446	ID:23	23.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 1
+07:26.448	ID:23	23.0: netflood send to ipolite
+07:26.612	ID:20	sent
+07:26.709	ID:15	recv 'Hej', from 20.0 (origin 25.0) in 1 hops (seq 0) 
+07:26.710	ID:19	dropped
+07:26.713	ID:15	15.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 1
+07:26.715	ID:15	15.0: netflood send to ipolite
+07:26.968	ID:23	sent
+07:27.032	ID:22	recv 'Hej', from 23.0 (origin 25.0) in 2 hops (seq 0) 
+07:27.037	ID:22	22.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 2
+07:27.039	ID:22	22.0: netflood send to ipolite
+07:27.073	ID:18	recv 'Hej', from 23.0 (origin 25.0) in 2 hops (seq 0) 
+07:27.077	ID:18	18.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 2
+07:27.079	ID:18	18.0: netflood send to ipolite
+07:27.235	ID:15	sent
+07:27.302	ID:10	recv 'Hej', from 15.0 (origin 25.0) in 2 hops (seq 0) 
+07:27.307	ID:10	10.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 2
+07:27.309	ID:10	10.0: netflood send to ipolite
+07:27.321	ID:14	recv 'Hej', from 15.0 (origin 25.0) in 2 hops (seq 0) 
+07:27.325	ID:14	14.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 2
+07:27.328	ID:14	14.0: netflood send to ipolite
+07:27.576	ID:18	sent
+07:27.630	ID:13	recv 'Hej', from 18.0 (origin 25.0) in 3 hops (seq 0) 
+07:27.634	ID:13	13.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 3
+07:27.636	ID:13	13.0: netflood send to ipolite
+07:27.680	ID:17	recv 'Hej', from 18.0 (origin 25.0) in 3 hops (seq 0) 
+07:27.684	ID:17	17.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 3
+07:27.687	ID:17	17.0: netflood send to ipolite
+07:27.848	ID:14	sent
+07:27.874	ID:13	dropped
+07:27.928	ID:22	sent
+07:27.952	ID:9	recv 'Hej', from 14.0 (origin 25.0) in 3 hops (seq 0) 
+07:27.956	ID:9	9.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 3
+07:27.959	ID:9	9.0: netflood send to ipolite
+07:28.027	ID:21	recv 'Hej', from 22.0 (origin 25.0) in 3 hops (seq 0) 
+07:28.031	ID:21	21.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 3
+07:28.034	ID:21	21.0: netflood send to ipolite
+07:28.050	ID:17	dropped
+07:28.196	ID:10	sent
+07:28.324	ID:9	dropped
+07:28.333	ID:5	recv 'Hej', from 10.0 (origin 25.0) in 3 hops (seq 0) 
+07:28.337	ID:5	5.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 3
+07:28.339	ID:5	5.0: netflood send to ipolite
+07:28.863	ID:5	sent
+07:28.922	ID:21	sent
+07:28.967	ID:4	recv 'Hej', from 5.0 (origin 25.0) in 4 hops (seq 0) 
+07:28.967	ID:16	recv 'Hej', from 21.0 (origin 25.0) in 4 hops (seq 0) 
+07:28.971	ID:4	4.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 4
+07:28.972	ID:16	16.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 4
+07:28.973	ID:4	4.0: netflood send to ipolite
+07:28.974	ID:16	16.0: netflood send to ipolite
+07:29.863	ID:16	sent
+07:29.863	ID:4	sent
+07:29.893	ID:3	recv 'Hej', from 4.0 (origin 25.0) in 5 hops (seq 0) 
+07:29.897	ID:3	3.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 5
+07:29.899	ID:3	3.0: netflood send to ipolite
+07:29.935	ID:11	recv 'Hej', from 16.0 (origin 25.0) in 5 hops (seq 0) 
+07:29.940	ID:11	11.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 5
+07:29.942	ID:11	11.0: netflood send to ipolite
+07:30.422	ID:3	sent
+07:30.444	ID:8	recv 'Hej', from 3.0 (origin 25.0) in 6 hops (seq 0) 
+07:30.448	ID:8	8.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 6
+07:30.450	ID:8	8.0: netflood send to ipolite
+07:30.481	ID:2	recv 'Hej', from 3.0 (origin 25.0) in 6 hops (seq 0) 
+07:30.485	ID:2	2.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 6
+07:30.487	ID:2	2.0: netflood send to ipolite
+07:30.830	ID:11	sent
+07:30.871	ID:6	recv 'Hej', from 11.0 (origin 25.0) in 6 hops (seq 0) 
+07:30.875	ID:6	6.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 6
+07:30.877	ID:6	6.0: netflood send to ipolite
+07:30.947	ID:8	sent
+07:31.009	ID:2	sent
+07:31.126	ID:1	recv 'Hej', from 2.0 (origin 25.0) in 7 hops (seq 0) 
+07:31.131	ID:1	1.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 7
+07:31.133	ID:1	1.0: netflood send to ipolite
+07:31.148	ID:7	recv 'Hej', from 2.0 (origin 25.0) in 7 hops (seq 0) 
+07:31.152	ID:7	7.0: netflood rebroadcasting 25.0/0 (19.0/0) hops 7
+07:31.154	ID:7	7.0: netflood send to ipolite
+07:31.398	ID:6	sent
+07:31.499	ID:1	dropped
+07:31.518	ID:7	dropped
+11:53.159	ID:6	6.0: netflood sending 'Hej', with seq no. 0
+11:53.159	ID:6	sent
+11:53.186	ID:11	recv 'Hej', from 6.0 (origin 6.0) in 0 hops (seq 0) 
+11:53.190	ID:11	11.0: netflood rebroadcasting 6.0/0 (25.0/0) hops 0
+11:53.193	ID:11	11.0: netflood send to ipolite
+11:53.253	ID:1	recv 'Hej', from 6.0 (origin 6.0) in 0 hops (seq 0) 
+11:53.257	ID:1	1.0: netflood rebroadcasting 6.0/0 (25.0/0) hops 0
+11:53.259	ID:1	1.0: netflood send to ipolite
+11:53.271	ID:7	recv 'Hej', from 6.0 (origin 6.0) in 0 hops (seq 0) 
+11:53.276	ID:7	7.0: netflood rebroadcasting 6.0/0 (25.0/0) hops 0
+11:53.278	ID:7	7.0: netflood send to ipolite
+11:53.713	ID:11	sent
+11:53.799	ID:7	sent
+11:53.856	ID:2	recv 'Hej', from 7.0 (origin 6.0) in 1 hops (seq 0) 
+11:53.860	ID:2	2.0: netflood rebroadcasting 6.0/0 (25.0/0) hops 1
+11:53.862	ID:2	2.0: netflood send to ipolite
+11:54.147	ID:1	sent
+11:54.227	ID:2	dropped
+12:18.583	ID:11	11.0: netflood sending 'Hej', with seq no. 0
+12:18.584	ID:11	sent
+12:18.621	ID:6	recv 'Hej', from 11.0 (origin 11.0) in 0 hops (seq 0) 
+12:18.626	ID:6	6.0: netflood rebroadcasting 11.0/0 (6.0/0) hops 0
+12:18.628	ID:6	6.0: netflood send to ipolite
+12:18.715	ID:12	recv 'Hej', from 11.0 (origin 11.0) in 0 hops (seq 0) 
+12:18.717	ID:16	recv 'Hej', from 11.0 (origin 11.0) in 0 hops (seq 0) 
+12:18.719	ID:12	12.0: netflood rebroadcasting 11.0/0 (19.0/0) hops 0
+12:18.721	ID:12	12.0: netflood send to ipolite
+12:18.722	ID:16	16.0: netflood rebroadcasting 11.0/0 (25.0/0) hops 0
+12:18.724	ID:16	16.0: netflood send to ipolite
+12:19.125	ID:6	sent
+12:19.147	ID:7	recv 'Hej', from 6.0 (origin 11.0) in 1 hops (seq 0) 
+12:19.151	ID:7	7.0: netflood rebroadcasting 11.0/0 (6.0/0) hops 1
+12:19.153	ID:7	7.0: netflood send to ipolite
+12:19.219	ID:12	sent
+12:19.246	ID:16	sent
+12:19.651	ID:7	sent
+12:19.691	ID:8	recv 'Hej', from 7.0 (origin 11.0) in 2 hops (seq 0) 
+12:19.696	ID:8	8.0: netflood rebroadcasting 11.0/0 (25.0/0) hops 2
+12:19.698	ID:8	8.0: netflood send to ipolite
+12:19.731	ID:2	recv 'Hej', from 7.0 (origin 11.0) in 2 hops (seq 0) 
+12:19.735	ID:2	2.0: netflood rebroadcasting 11.0/0 (6.0/0) hops 2
+12:19.738	ID:2	2.0: netflood send to ipolite
+12:20.642	ID:8	sent
+12:20.681	ID:2	sent
+12:40.826	ID:16	16.0: netflood sending 'Hej', with seq no. 0
+12:40.827	ID:16	sent
+12:40.899	ID:21	recv 'Hej', from 16.0 (origin 16.0) in 0 hops (seq 0) 
+12:40.904	ID:21	21.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 0
+12:40.906	ID:21	21.0: netflood send to ipolite
+12:40.929	ID:17	recv 'Hej', from 16.0 (origin 16.0) in 0 hops (seq 0) 
+12:40.933	ID:17	17.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 0
+12:40.934	ID:11	recv 'Hej', from 16.0 (origin 16.0) in 0 hops (seq 0) 
+12:40.935	ID:17	17.0: netflood send to ipolite
+12:40.938	ID:11	11.0: netflood rebroadcasting 16.0/0 (11.0/0) hops 0
+12:40.941	ID:11	11.0: netflood send to ipolite
+12:41.429	ID:21	sent
+12:41.440	ID:11	sent
+12:41.457	ID:17	sent
+12:41.591	ID:12	recv 'Hej', from 17.0 (origin 16.0) in 1 hops (seq 0) 
+12:41.595	ID:12	12.0: netflood rebroadcasting 16.0/0 (11.0/0) hops 1
+12:41.597	ID:12	12.0: netflood send to ipolite
+12:42.539	ID:12	sent
+12:42.630	ID:13	recv 'Hej', from 12.0 (origin 16.0) in 2 hops (seq 0) 
+12:42.635	ID:13	13.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 2
+12:42.637	ID:13	13.0: netflood send to ipolite
+12:42.646	ID:7	recv 'Hej', from 12.0 (origin 16.0) in 2 hops (seq 0) 
+12:42.650	ID:7	7.0: netflood rebroadcasting 16.0/0 (11.0/0) hops 2
+12:42.653	ID:7	7.0: netflood send to ipolite
+12:43.133	ID:13	sent
+12:43.192	ID:8	recv 'Hej', from 13.0 (origin 16.0) in 3 hops (seq 0) 
+12:43.195	ID:14	recv 'Hej', from 13.0 (origin 16.0) in 3 hops (seq 0) 
+12:43.196	ID:8	8.0: netflood rebroadcasting 16.0/0 (11.0/0) hops 3
+12:43.198	ID:18	recv 'Hej', from 13.0 (origin 16.0) in 3 hops (seq 0) 
+12:43.199	ID:8	8.0: netflood send to ipolite
+12:43.199	ID:14	14.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 3
+12:43.202	ID:14	14.0: netflood send to ipolite
+12:43.202	ID:18	18.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 3
+12:43.204	ID:18	18.0: netflood send to ipolite
+12:43.596	ID:7	sent
+12:43.621	ID:6	recv 'Hej', from 7.0 (origin 16.0) in 3 hops (seq 0) 
+12:43.625	ID:6	6.0: netflood rebroadcasting 16.0/0 (11.0/0) hops 3
+12:43.627	ID:6	6.0: netflood send to ipolite
+12:43.689	ID:8	dropped
+12:43.699	ID:14	sent
+12:43.730	ID:2	recv 'Hej', from 7.0 (origin 16.0) in 3 hops (seq 0) 
+12:43.734	ID:2	2.0: netflood rebroadcasting 16.0/0 (11.0/0) hops 3
+12:43.736	ID:2	2.0: netflood send to ipolite
+12:43.828	ID:9	recv 'Hej', from 14.0 (origin 16.0) in 4 hops (seq 0) 
+12:43.832	ID:9	9.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 4
+12:43.833	ID:15	recv 'Hej', from 14.0 (origin 16.0) in 4 hops (seq 0) 
+12:43.834	ID:9	9.0: netflood send to ipolite
+12:43.837	ID:15	15.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 4
+12:43.838	ID:19	recv 'Hej', from 14.0 (origin 16.0) in 4 hops (seq 0) 
+12:43.840	ID:15	15.0: netflood send to ipolite
+12:43.843	ID:19	19.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 4
+12:43.845	ID:19	19.0: netflood send to ipolite
+12:44.146	ID:18	sent
+12:44.189	ID:23	recv 'Hej', from 18.0 (origin 16.0) in 4 hops (seq 0) 
+12:44.193	ID:23	23.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 4
+12:44.196	ID:23	23.0: netflood send to ipolite
+12:44.209	ID:19	dropped
+12:44.333	ID:9	sent
+12:44.337	ID:15	sent
+12:44.570	ID:6	sent
+12:44.627	ID:1	recv 'Hej', from 6.0 (origin 16.0) in 4 hops (seq 0) 
+12:44.631	ID:1	1.0: netflood rebroadcasting 16.0/0 (6.0/0) hops 4
+12:44.633	ID:1	1.0: netflood send to ipolite
+12:44.694	ID:23	sent
+12:44.720	ID:2	sent
+12:44.749	ID:1	dropped
+12:44.768	ID:3	recv 'Hej', from 2.0 (origin 16.0) in 4 hops (seq 0) 
+12:44.772	ID:3	3.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 4
+12:44.774	ID:3	3.0: netflood send to ipolite
+12:44.780	ID:24	recv 'Hej', from 23.0 (origin 16.0) in 5 hops (seq 0) 
+12:44.783	ID:22	recv 'Hej', from 23.0 (origin 16.0) in 5 hops (seq 0) 
+12:44.785	ID:24	24.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 5
+12:44.787	ID:24	24.0: netflood send to ipolite
+12:44.787	ID:22	22.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 5
+12:44.790	ID:22	22.0: netflood send to ipolite
+12:45.274	ID:3	sent
+12:45.284	ID:24	sent
+12:45.311	ID:22	sent
+12:45.338	ID:25	recv 'Hej', from 24.0 (origin 16.0) in 6 hops (seq 0) 
+12:45.342	ID:25	25.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 6
+12:45.343	ID:4	recv 'Hej', from 3.0 (origin 16.0) in 5 hops (seq 0) 
+12:45.345	ID:25	25.0: netflood send to ipolite
+12:45.347	ID:4	4.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 5
+12:45.350	ID:4	4.0: netflood send to ipolite
+12:45.871	ID:4	sent
+12:45.959	ID:5	recv 'Hej', from 4.0 (origin 16.0) in 6 hops (seq 0) 
+12:45.964	ID:5	5.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 6
+12:45.966	ID:5	5.0: netflood send to ipolite
+12:46.232	ID:25	sent
+12:46.342	ID:20	recv 'Hej', from 25.0 (origin 16.0) in 7 hops (seq 0) 
+12:46.346	ID:20	20.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 7
+12:46.349	ID:20	20.0: netflood send to ipolite
+12:46.464	ID:5	sent
+12:46.553	ID:10	recv 'Hej', from 5.0 (origin 16.0) in 7 hops (seq 0) 
+12:46.557	ID:10	10.0: netflood rebroadcasting 16.0/0 (25.0/0) hops 7
+12:46.559	ID:10	10.0: netflood send to ipolite
+12:46.870	ID:20	sent
+12:47.079	ID:10	sent
+13:03.510	ID:21	21.0: netflood sending 'Hej', with seq no. 0
+13:03.511	ID:21	sent
+13:03.533	ID:22	recv 'Hej', from 21.0 (origin 21.0) in 0 hops (seq 0) 
+13:03.537	ID:22	22.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 0
+13:03.539	ID:22	22.0: netflood send to ipolite
+13:03.594	ID:16	recv 'Hej', from 21.0 (origin 21.0) in 0 hops (seq 0) 
+13:03.598	ID:16	16.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 0
+13:03.600	ID:16	16.0: netflood send to ipolite
+13:04.037	ID:22	sent
+13:04.054	ID:17	recv 'Hej', from 22.0 (origin 21.0) in 1 hops (seq 0) 
+13:04.058	ID:17	17.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 1
+13:04.060	ID:17	17.0: netflood send to ipolite
+13:04.064	ID:23	recv 'Hej', from 22.0 (origin 21.0) in 1 hops (seq 0) 
+13:04.069	ID:23	23.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 1
+13:04.071	ID:23	23.0: netflood send to ipolite
+13:04.097	ID:16	sent
+13:04.177	ID:17	dropped
+13:04.186	ID:11	recv 'Hej', from 16.0 (origin 21.0) in 1 hops (seq 0) 
+13:04.190	ID:11	11.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 1
+13:04.192	ID:11	11.0: netflood send to ipolite
+13:05.015	ID:23	sent
+13:05.031	ID:24	recv 'Hej', from 23.0 (origin 21.0) in 2 hops (seq 0) 
+13:05.036	ID:24	24.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 2
+13:05.038	ID:24	24.0: netflood send to ipolite
+13:05.071	ID:18	recv 'Hej', from 23.0 (origin 21.0) in 2 hops (seq 0) 
+13:05.075	ID:18	18.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 2
+13:05.078	ID:18	18.0: netflood send to ipolite
+13:05.135	ID:11	sent
+13:05.216	ID:12	recv 'Hej', from 11.0 (origin 21.0) in 2 hops (seq 0) 
+13:05.220	ID:12	12.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 2
+13:05.222	ID:12	12.0: netflood send to ipolite
+13:05.245	ID:6	recv 'Hej', from 11.0 (origin 21.0) in 2 hops (seq 0) 
+13:05.249	ID:6	6.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 2
+13:05.251	ID:6	6.0: netflood send to ipolite
+13:05.980	ID:24	sent
+13:06.060	ID:18	sent
+13:06.130	ID:13	recv 'Hej', from 18.0 (origin 21.0) in 3 hops (seq 0) 
+13:06.134	ID:13	13.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 3
+13:06.137	ID:13	13.0: netflood send to ipolite
+13:06.203	ID:12	sent
+13:06.234	ID:6	sent
+13:07.078	ID:13	sent
+13:07.194	ID:8	recv 'Hej', from 13.0 (origin 21.0) in 4 hops (seq 0) 
+13:07.196	ID:14	recv 'Hej', from 13.0 (origin 21.0) in 4 hops (seq 0) 
+13:07.198	ID:8	8.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 4
+13:07.200	ID:8	8.0: netflood send to ipolite
+13:07.200	ID:14	14.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 4
+13:07.203	ID:14	14.0: netflood send to ipolite
+13:07.939	ID:8	sent
+13:08.020	ID:3	recv 'Hej', from 8.0 (origin 21.0) in 5 hops (seq 0) 
+13:08.022	ID:7	recv 'Hej', from 8.0 (origin 21.0) in 5 hops (seq 0) 
+13:08.024	ID:3	3.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 5
+13:08.026	ID:3	3.0: netflood send to ipolite
+13:08.027	ID:7	7.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 5
+13:08.029	ID:7	7.0: netflood send to ipolite
+13:08.078	ID:9	recv 'Hej', from 8.0 (origin 21.0) in 5 hops (seq 0) 
+13:08.082	ID:9	9.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 5
+13:08.085	ID:9	9.0: netflood send to ipolite
+13:08.145	ID:14	sent
+13:08.200	ID:9	dropped
+13:08.206	ID:15	recv 'Hej', from 14.0 (origin 21.0) in 5 hops (seq 0) 
+13:08.211	ID:15	15.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 5
+13:08.212	ID:19	recv 'Hej', from 14.0 (origin 21.0) in 5 hops (seq 0) 
+13:08.213	ID:15	15.0: netflood send to ipolite
+13:08.216	ID:19	19.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 5
+13:08.218	ID:19	19.0: netflood send to ipolite
+13:08.718	ID:19	sent
+13:08.969	ID:3	sent
+13:09.010	ID:7	sent
+13:09.157	ID:15	sent
+13:09.176	ID:10	recv 'Hej', from 15.0 (origin 21.0) in 6 hops (seq 0) 
+13:09.181	ID:10	10.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 6
+13:09.183	ID:10	10.0: netflood send to ipolite
+13:09.216	ID:20	recv 'Hej', from 15.0 (origin 21.0) in 6 hops (seq 0) 
+13:09.221	ID:20	20.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 6
+13:09.223	ID:20	20.0: netflood send to ipolite
+13:09.681	ID:10	sent
+13:09.710	ID:5	recv 'Hej', from 10.0 (origin 21.0) in 7 hops (seq 0) 
+13:09.715	ID:5	5.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 7
+13:09.717	ID:5	5.0: netflood send to ipolite
+13:09.722	ID:20	sent
+13:09.837	ID:25	recv 'Hej', from 20.0 (origin 21.0) in 7 hops (seq 0) 
+13:09.841	ID:25	25.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 7
+13:09.843	ID:25	25.0: netflood send to ipolite
+13:10.365	ID:25	sent
+13:10.660	ID:5	sent
+13:10.719	ID:4	recv 'Hej', from 5.0 (origin 21.0) in 8 hops (seq 0) 
+13:10.723	ID:4	4.0: netflood rebroadcasting 21.0/0 (16.0/0) hops 8
+13:10.725	ID:4	4.0: netflood send to ipolite
+13:11.223	ID:4	sent
+13:34.704	ID:22	22.0: netflood sending 'Hej', with seq no. 0
+13:34.705	ID:22	sent
+13:34.777	ID:21	recv 'Hej', from 22.0 (origin 22.0) in 0 hops (seq 0) 
+13:34.781	ID:21	21.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 0
+13:34.784	ID:21	21.0: netflood send to ipolite
+13:34.804	ID:17	recv 'Hej', from 22.0 (origin 22.0) in 0 hops (seq 0) 
+13:34.808	ID:17	17.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 0
+13:34.810	ID:17	17.0: netflood send to ipolite
+13:34.814	ID:23	recv 'Hej', from 22.0 (origin 22.0) in 0 hops (seq 0) 
+13:34.819	ID:23	23.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 0
+13:34.821	ID:23	23.0: netflood send to ipolite
+13:35.281	ID:21	sent
+13:35.343	ID:16	recv 'Hej', from 21.0 (origin 22.0) in 1 hops (seq 0) 
+13:35.347	ID:16	16.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 1
+13:35.349	ID:16	16.0: netflood send to ipolite
+13:35.754	ID:17	sent
+13:35.804	ID:23	sent
+13:35.906	ID:24	recv 'Hej', from 23.0 (origin 22.0) in 1 hops (seq 0) 
+13:35.910	ID:24	24.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 1
+13:35.912	ID:24	24.0: netflood send to ipolite
+13:36.293	ID:16	sent
+13:36.312	ID:11	recv 'Hej', from 16.0 (origin 22.0) in 2 hops (seq 0) 
+13:36.316	ID:11	11.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 2
+13:36.318	ID:11	11.0: netflood send to ipolite
+13:36.894	ID:24	sent
+13:36.963	ID:25	recv 'Hej', from 24.0 (origin 22.0) in 2 hops (seq 0) 
+13:36.964	ID:19	recv 'Hej', from 24.0 (origin 22.0) in 2 hops (seq 0) 
+13:36.968	ID:25	25.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 2
+13:36.968	ID:19	19.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 2
+13:36.970	ID:25	25.0: netflood send to ipolite
+13:36.970	ID:19	19.0: netflood send to ipolite
+13:37.299	ID:11	sent
+13:37.340	ID:12	recv 'Hej', from 11.0 (origin 22.0) in 3 hops (seq 0) 
+13:37.344	ID:12	12.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 3
+13:37.346	ID:12	12.0: netflood send to ipolite
+13:37.372	ID:6	recv 'Hej', from 11.0 (origin 22.0) in 3 hops (seq 0) 
+13:37.376	ID:6	6.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 3
+13:37.378	ID:6	6.0: netflood send to ipolite
+13:37.467	ID:25	sent
+13:37.592	ID:20	recv 'Hej', from 25.0 (origin 22.0) in 3 hops (seq 0) 
+13:37.597	ID:20	20.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 3
+13:37.599	ID:20	20.0: netflood send to ipolite
+13:37.914	ID:19	sent
+13:37.946	ID:18	recv 'Hej', from 19.0 (origin 22.0) in 3 hops (seq 0) 
+13:37.946	ID:14	recv 'Hej', from 19.0 (origin 22.0) in 3 hops (seq 0) 
+13:37.950	ID:18	18.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 3
+13:37.950	ID:14	14.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 3
+13:37.953	ID:18	18.0: netflood send to ipolite
+13:37.953	ID:14	14.0: netflood send to ipolite
+13:37.964	ID:20	dropped
+13:38.086	ID:12	sent
+13:38.117	ID:6	sent
+13:38.129	ID:13	recv 'Hej', from 12.0 (origin 22.0) in 4 hops (seq 0) 
+13:38.133	ID:13	13.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 4
+13:38.136	ID:13	13.0: netflood send to ipolite
+13:38.693	ID:18	sent
+13:38.751	ID:13	dropped
+13:38.934	ID:14	sent
+13:38.953	ID:9	recv 'Hej', from 14.0 (origin 22.0) in 4 hops (seq 0) 
+13:38.957	ID:9	9.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 4
+13:38.958	ID:15	recv 'Hej', from 14.0 (origin 22.0) in 4 hops (seq 0) 
+13:38.959	ID:9	9.0: netflood send to ipolite
+13:38.963	ID:15	15.0: netflood rebroadcasting 22.0/0 (21.0/0) hops 4
+13:38.965	ID:15	15.0: netflood send to ipolite
+13:39.942	ID:9	sent
+13:39.946	ID:15	sent

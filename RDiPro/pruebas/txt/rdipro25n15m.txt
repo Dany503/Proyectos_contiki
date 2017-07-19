@@ -1,0 +1,1011 @@
+00:00.888	ID:24	Rime started with address 24.0
+00:00.897	ID:24	MAC 18:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 24.
+00:00.902	ID:24	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.906	ID:24	Starting 'RD-PRO process' 'Broadcast process'
+00:00.926	ID:8	Rime started with address 8.0
+00:00.934	ID:8	MAC 08:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 8.
+00:00.940	ID:8	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.943	ID:8	Starting 'RD-PRO process' 'Broadcast process'
+00:01.044	ID:11	Rime started with address 11.0
+00:01.052	ID:11	MAC 0b:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 11.
+00:01.058	ID:11	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.061	ID:11	Starting 'RD-PRO process' 'Broadcast process'
+00:01.089	ID:2	Rime started with address 2.0
+00:01.097	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 2.
+00:01.103	ID:2	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.104	ID:6	Rime started with address 6.0
+00:01.106	ID:2	Starting 'RD-PRO process' 'Broadcast process'
+00:01.112	ID:6	MAC 06:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 6.
+00:01.118	ID:6	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.121	ID:6	Starting 'RD-PRO process' 'Broadcast process'
+00:01.180	ID:18	Rime started with address 18.0
+00:01.188	ID:18	MAC 12:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 18.
+00:01.194	ID:18	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.197	ID:18	Starting 'RD-PRO process' 'Broadcast process'
+00:01.202	ID:4	Rime started with address 4.0
+00:01.210	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 4.
+00:01.215	ID:4	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.219	ID:4	Starting 'RD-PRO process' 'Broadcast process'
+00:01.235	ID:1	Rime started with address 1.0
+00:01.244	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 1.
+00:01.249	ID:1	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.252	ID:1	Starting 'RD-PRO process' 'Broadcast process'
+00:01.255	ID:7	Rime started with address 7.0
+00:01.263	ID:7	MAC 07:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 7.
+00:01.269	ID:7	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.272	ID:7	Starting 'RD-PRO process' 'Broadcast process'
+00:01.303	ID:14	Rime started with address 14.0
+00:01.312	ID:14	MAC 0e:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 14.
+00:01.316	ID:15	Rime started with address 15.0
+00:01.317	ID:14	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.321	ID:14	Starting 'RD-PRO process' 'Broadcast process'
+00:01.321	ID:25	Rime started with address 25.0
+00:01.324	ID:15	MAC 0f:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 15.
+00:01.326	ID:20	Rime started with address 20.0
+00:01.326	ID:16	Rime started with address 16.0
+00:01.329	ID:25	MAC 19:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 25.
+00:01.330	ID:15	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.333	ID:15	Starting 'RD-PRO process' 'Broadcast process'
+00:01.334	ID:20	MAC 14:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 20.
+00:01.335	ID:16	MAC 10:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 16.
+00:01.335	ID:25	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.338	ID:25	Starting 'RD-PRO process' 'Broadcast process'
+00:01.340	ID:20	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.340	ID:16	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.343	ID:20	Starting 'RD-PRO process' 'Broadcast process'
+00:01.343	ID:16	Starting 'RD-PRO process' 'Broadcast process'
+00:01.410	ID:10	Rime started with address 10.0
+00:01.418	ID:10	MAC 0a:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 10.
+00:01.424	ID:10	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.427	ID:10	Starting 'RD-PRO process' 'Broadcast process'
+00:01.448	ID:12	Rime started with address 12.0
+00:01.456	ID:12	MAC 0c:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 12.
+00:01.461	ID:12	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.465	ID:12	Starting 'RD-PRO process' 'Broadcast process'
+00:01.516	ID:22	Rime started with address 22.0
+00:01.525	ID:22	MAC 16:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 22.
+00:01.530	ID:22	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.534	ID:22	Starting 'RD-PRO process' 'Broadcast process'
+00:01.562	ID:9	Rime started with address 9.0
+00:01.568	ID:5	Rime started with address 5.0
+00:01.570	ID:9	MAC 09:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 9.
+00:01.572	ID:19	Rime started with address 19.0
+00:01.575	ID:9	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.576	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 5.
+00:01.579	ID:9	Starting 'RD-PRO process' 'Broadcast process'
+00:01.581	ID:19	MAC 13:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 19.
+00:01.582	ID:5	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.585	ID:5	Starting 'RD-PRO process' 'Broadcast process'
+00:01.586	ID:19	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.590	ID:19	Starting 'RD-PRO process' 'Broadcast process'
+00:01.662	ID:17	Rime started with address 17.0
+00:01.671	ID:17	MAC 11:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 17.
+00:01.676	ID:17	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.680	ID:17	Starting 'RD-PRO process' 'Broadcast process'
+00:01.737	ID:13	Rime started with address 13.0
+00:01.745	ID:13	MAC 0d:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 13.
+00:01.751	ID:13	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.753	ID:3	Rime started with address 3.0
+00:01.754	ID:13	Starting 'RD-PRO process' 'Broadcast process'
+00:01.760	ID:21	Rime started with address 21.0
+00:01.761	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 3.
+00:01.766	ID:3	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.768	ID:21	MAC 15:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 21.
+00:01.770	ID:3	Starting 'RD-PRO process' 'Broadcast process'
+00:01.774	ID:21	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.777	ID:21	Starting 'RD-PRO process' 'Broadcast process'
+00:01.799	ID:23	Rime started with address 23.0
+00:01.807	ID:23	MAC 17:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 23.
+00:01.812	ID:23	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.816	ID:23	Starting 'RD-PRO process' 'Broadcast process'
+00:30.219	ID:19	broadcast message received from 24.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.221	ID:19	[tabla de vecinos] 24.0
+00:30.273	ID:3	broadcast message received from 8.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.275	ID:3	[tabla de vecinos] 8.0
+00:30.276	ID:7	broadcast message received from 8.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.277	ID:7	[tabla de vecinos] 8.0
+00:30.321	ID:23	broadcast message received from 24.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.323	ID:23	[tabla de vecinos] 24.0
+00:30.332	ID:9	broadcast message received from 8.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.333	ID:9	[tabla de vecinos] 8.0
+00:30.342	ID:25	broadcast message received from 24.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.344	ID:25	[tabla de vecinos] 24.0
+00:30.474	ID:16	broadcast message received from 11.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.475	ID:16	[tabla de vecinos] 11.0
+00:30.506	ID:1	broadcast message received from 2.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.507	ID:1	[tabla de vecinos] 2.0
+00:30.524	ID:3	broadcast message received from 2.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.526	ID:3	[tabla de vecinos] 8.0
+00:30.528	ID:3	[tabla de vecinos] 2.0
+00:30.559	ID:17	broadcast message received from 18.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.561	ID:17	[tabla de vecinos] 18.0
+00:30.570	ID:23	broadcast message received from 18.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.571	ID:23	[tabla de vecinos] 24.0
+00:30.573	ID:23	[tabla de vecinos] 18.0
+00:30.589	ID:5	broadcast message received from 4.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.590	ID:5	[tabla de vecinos] 4.0
+00:30.594	ID:19	broadcast message received from 18.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.595	ID:19	[tabla de vecinos] 24.0
+00:30.597	ID:19	[tabla de vecinos] 18.0
+00:30.657	ID:21	broadcast message received from 16.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.659	ID:21	[tabla de vecinos] 16.0
+00:30.712	ID:9	broadcast message received from 14.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.713	ID:9	[tabla de vecinos] 8.0
+00:30.715	ID:9	[tabla de vecinos] 14.0
+00:30.758	ID:1	broadcast message received from 6.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.759	ID:1	[tabla de vecinos] 2.0
+00:30.761	ID:1	[tabla de vecinos] 6.0
+00:30.840	ID:5	broadcast message received from 10.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.841	ID:5	[tabla de vecinos] 4.0
+00:30.842	ID:25	broadcast message received from 20.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.843	ID:5	[tabla de vecinos] 10.0
+00:30.844	ID:25	[tabla de vecinos] 24.0
+00:30.845	ID:25	[tabla de vecinos] 20.0
+00:30.906	ID:21	broadcast message received from 22.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.908	ID:21	[tabla de vecinos] 16.0
+00:30.910	ID:21	[tabla de vecinos] 22.0
+00:31.039	ID:22	broadcast message received from 17.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:31.041	ID:22	[tabla de vecinos] 17.0
+00:31.057	ID:10	broadcast message received from 15.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:31.059	ID:10	[tabla de vecinos] 15.0
+00:31.198	ID:8	broadcast message received from 3.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:31.200	ID:8	[tabla de vecinos] 3.0
+00:55.444	ID:23	broadcast message received from 24.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.446	ID:23	[tabla de vecinos] 24.0
+00:55.448	ID:23	[tabla de vecinos] 18.0
+00:55.458	ID:9	broadcast message received from 8.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.460	ID:9	[tabla de vecinos] 8.0
+00:55.462	ID:9	[tabla de vecinos] 14.0
+00:55.466	ID:25	broadcast message received from 24.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.468	ID:25	[tabla de vecinos] 24.0
+00:55.469	ID:25	[tabla de vecinos] 20.0
+00:55.509	ID:13	broadcast message received from 8.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.511	ID:13	[tabla de vecinos] 8.0
+00:55.525	ID:3	broadcast message received from 8.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.526	ID:3	[tabla de vecinos] 8.0
+00:55.528	ID:3	[tabla de vecinos] 2.0
+00:55.597	ID:16	broadcast message received from 11.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.599	ID:16	[tabla de vecinos] 11.0
+00:55.648	ID:3	broadcast message received from 2.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.650	ID:3	[tabla de vecinos] 8.0
+00:55.652	ID:3	[tabla de vecinos] 2.0
+00:55.683	ID:17	broadcast message received from 18.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.684	ID:17	[tabla de vecinos] 18.0
+00:55.696	ID:23	broadcast message received from 18.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.698	ID:23	[tabla de vecinos] 24.0
+00:55.700	ID:23	[tabla de vecinos] 18.0
+00:55.715	ID:5	broadcast message received from 4.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.717	ID:5	[tabla de vecinos] 4.0
+00:55.719	ID:5	[tabla de vecinos] 10.0
+00:55.720	ID:19	broadcast message received from 18.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.722	ID:19	[tabla de vecinos] 24.0
+00:55.724	ID:19	[tabla de vecinos] 18.0
+00:55.906	ID:21	broadcast message received from 16.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.908	ID:21	[tabla de vecinos] 16.0
+00:55.910	ID:21	[tabla de vecinos] 22.0
+00:55.940	ID:11	broadcast message received from 12.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.942	ID:11	[tabla de vecinos] 12.0
+00:55.963	ID:5	broadcast message received from 10.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.964	ID:15	broadcast message received from 10.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.965	ID:5	[tabla de vecinos] 4.0
+00:55.965	ID:15	[tabla de vecinos] 10.0
+00:55.967	ID:5	[tabla de vecinos] 10.0
+00:56.131	ID:1	broadcast message received from 6.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.133	ID:1	[tabla de vecinos] 2.0
+00:56.135	ID:1	[tabla de vecinos] 6.0
+00:56.212	ID:15	broadcast message received from 20.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.214	ID:15	[tabla de vecinos] 10.0
+00:56.216	ID:15	[tabla de vecinos] 20.0
+00:56.217	ID:25	broadcast message received from 20.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.219	ID:12	broadcast message received from 17.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.219	ID:25	[tabla de vecinos] 24.0
+00:56.221	ID:12	[tabla de vecinos] 17.0
+00:56.221	ID:25	[tabla de vecinos] 20.0
+00:56.349	ID:4	broadcast message received from 3.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.351	ID:4	[tabla de vecinos] 3.0
+00:56.360	ID:2	broadcast message received from 3.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.361	ID:2	[tabla de vecinos] 3.0
+00:56.556	ID:10	broadcast message received from 15.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.558	ID:10	[tabla de vecinos] 15.0
+00:56.573	ID:14	broadcast message received from 15.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.574	ID:14	[tabla de vecinos] 15.0
+00:56.597	ID:20	broadcast message received from 15.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.598	ID:20	[tabla de vecinos] 15.0
+01:20.836	ID:15	broadcast message received from 20.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:20.838	ID:15	[tabla de vecinos] 10.0
+01:20.840	ID:15	[tabla de vecinos] 20.0
+01:20.841	ID:25	broadcast message received from 20.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:20.843	ID:25	[tabla de vecinos] 24.0
+01:20.844	ID:19	broadcast message received from 20.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:20.845	ID:25	[tabla de vecinos] 20.0
+01:20.846	ID:19	[tabla de vecinos] 24.0
+01:20.848	ID:19	[tabla de vecinos] 18.0
+01:20.850	ID:19	[tabla de vecinos] 20.0
+01:23.631	ID:1	broadcast message received from 6.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:23.633	ID:1	[tabla de vecinos] 2.0
+01:23.634	ID:1	[tabla de vecinos] 6.0
+01:23.652	ID:7	broadcast message received from 6.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:23.654	ID:7	[tabla de vecinos] 8.0
+01:23.656	ID:7	[tabla de vecinos] 6.0
+01:23.690	ID:11	broadcast message received from 6.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:23.692	ID:11	[tabla de vecinos] 12.0
+01:23.693	ID:11	[tabla de vecinos] 6.0
+01:23.805	ID:10	broadcast message received from 15.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:23.807	ID:10	[tabla de vecinos] 15.0
+01:23.824	ID:14	broadcast message received from 15.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:23.826	ID:14	[tabla de vecinos] 15.0
+01:23.848	ID:20	broadcast message received from 15.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:23.850	ID:20	[tabla de vecinos] 15.0
+01:25.819	ID:23	broadcast message received from 24.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:25.821	ID:23	[tabla de vecinos] 24.0
+01:25.823	ID:23	[tabla de vecinos] 18.0
+01:25.833	ID:9	broadcast message received from 8.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:25.835	ID:9	[tabla de vecinos] 8.0
+01:25.836	ID:9	[tabla de vecinos] 14.0
+01:25.843	ID:25	broadcast message received from 24.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:25.845	ID:25	[tabla de vecinos] 24.0
+01:25.847	ID:25	[tabla de vecinos] 20.0
+01:25.899	ID:3	broadcast message received from 8.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:25.901	ID:3	[tabla de vecinos] 8.0
+01:25.902	ID:7	broadcast message received from 8.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.25, distance 81
+01:25.903	ID:3	[tabla de vecinos] 2.0
+01:25.904	ID:7	[tabla de vecinos] 8.0
+01:25.905	ID:7	[tabla de vecinos] 6.0
+01:25.972	ID:16	broadcast message received from 11.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:25.974	ID:16	[tabla de vecinos] 11.0
+01:26.023	ID:3	broadcast message received from 2.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.025	ID:3	[tabla de vecinos] 8.0
+01:26.026	ID:3	[tabla de vecinos] 2.0
+01:26.071	ID:23	broadcast message received from 18.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.073	ID:23	[tabla de vecinos] 24.0
+01:26.074	ID:23	[tabla de vecinos] 18.0
+01:26.087	ID:5	broadcast message received from 4.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.089	ID:5	[tabla de vecinos] 4.0
+01:26.091	ID:5	[tabla de vecinos] 10.0
+01:26.095	ID:19	broadcast message received from 18.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.097	ID:19	[tabla de vecinos] 24.0
+01:26.098	ID:19	[tabla de vecinos] 18.0
+01:26.100	ID:19	[tabla de vecinos] 20.0
+01:26.124	ID:6	broadcast message received from 1.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.126	ID:6	[tabla de vecinos] 1.0
+01:26.281	ID:21	broadcast message received from 16.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.283	ID:21	[tabla de vecinos] 16.0
+01:26.285	ID:21	[tabla de vecinos] 22.0
+01:26.308	ID:17	broadcast message received from 16.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.310	ID:17	[tabla de vecinos] 18.0
+01:26.312	ID:17	[tabla de vecinos] 16.0
+01:26.316	ID:11	broadcast message received from 16.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.318	ID:11	[tabla de vecinos] 12.0
+01:26.320	ID:11	[tabla de vecinos] 6.0
+01:26.321	ID:11	[tabla de vecinos] 16.0
+01:26.338	ID:15	broadcast message received from 10.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.340	ID:15	[tabla de vecinos] 10.0
+01:26.341	ID:5	broadcast message received from 10.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.342	ID:15	[tabla de vecinos] 20.0
+01:26.342	ID:5	[tabla de vecinos] 4.0
+01:26.344	ID:5	[tabla de vecinos] 10.0
+01:26.400	ID:7	broadcast message received from 12.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.402	ID:7	[tabla de vecinos] 8.0
+01:26.403	ID:7	[tabla de vecinos] 6.0
+01:26.405	ID:7	[tabla de vecinos] 12.0
+01:26.536	ID:24	broadcast message received from 19.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.537	ID:24	[tabla de vecinos] 19.0
+01:26.575	ID:18	broadcast message received from 17.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.577	ID:18	[tabla de vecinos] 17.0
+01:26.593	ID:12	broadcast message received from 17.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.595	ID:12	[tabla de vecinos] 17.0
+01:26.599	ID:16	broadcast message received from 17.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.601	ID:16	[tabla de vecinos] 11.0
+01:26.603	ID:16	[tabla de vecinos] 17.0
+01:26.786	ID:24	broadcast message received from 23.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.788	ID:24	[tabla de vecinos] 19.0
+01:26.788	ID:22	broadcast message received from 23.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.789	ID:24	[tabla de vecinos] 23.0
+01:26.790	ID:22	[tabla de vecinos] 17.0
+01:26.792	ID:22	[tabla de vecinos] 23.0
+02:51.442	ID:1	1.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+02:51.442	ID:1	sent
+02:51.483	ID:2	recv 'Hej', from 1.0 (origin 1.0) in 0 hops (seq 0) 
+02:51.492	ID:2	2.0: rdipro rebroadcasting 1.0/0 (0.0/0) hops 0 (won with 29 vs 80) (my furthest neighbor is at 81)
+02:51.494	ID:2	2.0: rdipro send to ipolite
+02:51.496	ID:6	recv 'Hej', from 1.0 (origin 1.0) in 0 hops (seq 0) 
+02:51.499	ID:6	lost with 81 vs 80
+02:52.385	ID:2	sent
+02:52.521	ID:3	recv 'Hej', from 2.0 (origin 1.0) in 1 hops (seq 0) 
+02:52.524	ID:7	recv 'Hej', from 2.0 (origin 1.0) in 1 hops (seq 0) 
+02:52.530	ID:3	3.0: rdipro rebroadcasting 1.0/0 (0.0/0) hops 1 (won with 29 vs 80) (my furthest neighbor is at 81)
+02:52.532	ID:3	3.0: rdipro send to ipolite
+02:52.532	ID:7	7.0: rdipro rebroadcasting 1.0/0 (0.0/0) hops 1 (won with 29 vs 80) (my furthest neighbor is at 81)
+02:52.535	ID:7	7.0: rdipro send to ipolite
+02:53.423	ID:3	sent
+02:53.425	ID:7	sent
+04:11.665	ID:7	7.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+04:11.665	ID:7	sent
+04:11.692	ID:8	recv 'Hej', from 7.0 (origin 7.0) in 0 hops (seq 0) 
+04:11.701	ID:8	8.0: rdipro rebroadcasting 7.0/0 (0.0/0) hops 0 (won with 29 vs 80) (my furthest neighbor is at 81)
+04:11.703	ID:8	8.0: rdipro send to ipolite
+04:11.716	ID:12	recv 'Hej', from 7.0 (origin 7.0) in 0 hops (seq 0) 
+04:11.725	ID:12	12.0: rdipro rebroadcasting 7.0/0 (0.0/0) hops 0 (won with 29 vs 80) (my furthest neighbor is at 81)
+04:11.727	ID:12	12.0: rdipro send to ipolite
+04:11.732	ID:2	recv 'Hej', from 7.0 (origin 7.0) in 0 hops (seq 0) 
+04:11.735	ID:2	lost with 97 vs 80
+04:11.746	ID:6	recv 'Hej', from 7.0 (origin 7.0) in 0 hops (seq 0) 
+04:11.748	ID:6	lost with 84 vs 80
+04:12.589	ID:8	sent
+04:12.618	ID:12	sent
+04:12.629	ID:13	recv 'Hej', from 8.0 (origin 7.0) in 1 hops (seq 0) 
+04:12.638	ID:13	13.0: rdipro rebroadcasting 7.0/0 (0.0/0) hops 1 (won with 29 vs 80) (my furthest neighbor is at 81)
+04:12.640	ID:13	13.0: rdipro send to ipolite
+04:12.751	ID:13	dropped
+05:00.319	ID:13	13.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+05:00.319	ID:13	sent
+05:00.341	ID:12	recv 'Hej', from 13.0 (origin 13.0) in 0 hops (seq 0) 
+05:00.344	ID:12	lost with 97 vs 80
+05:00.442	ID:8	recv 'Hej', from 13.0 (origin 13.0) in 0 hops (seq 0) 
+05:00.445	ID:8	lost with 97 vs 80
+05:00.445	ID:14	recv 'Hej', from 13.0 (origin 13.0) in 0 hops (seq 0) 
+05:00.448	ID:18	recv 'Hej', from 13.0 (origin 13.0) in 0 hops (seq 0) 
+05:00.454	ID:14	14.0: rdipro rebroadcasting 13.0/0 (0.0/0) hops 0 (won with 29 vs 80) (my furthest neighbor is at 81)
+05:00.456	ID:14	14.0: rdipro send to ipolite
+05:00.457	ID:18	18.0: rdipro rebroadcasting 13.0/0 (0.0/0) hops 0 (won with 29 vs 80) (my furthest neighbor is at 81)
+05:00.459	ID:18	18.0: rdipro send to ipolite
+05:01.341	ID:14	sent
+05:01.350	ID:18	sent
+05:22.591	ID:19	19.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+05:22.592	ID:19	sent
+05:22.656	ID:24	recv 'Hej', from 19.0 (origin 19.0) in 0 hops (seq 0) 
+05:22.665	ID:24	24.0: rdipro rebroadcasting 19.0/0 (0.0/0) hops 0 (won with 29 vs 80) (my furthest neighbor is at 81)
+05:22.668	ID:24	24.0: rdipro send to ipolite
+05:22.697	ID:18	recv 'Hej', from 19.0 (origin 19.0) in 0 hops (seq 0) 
+05:22.697	ID:14	recv 'Hej', from 19.0 (origin 19.0) in 0 hops (seq 0) 
+05:22.699	ID:18	lost with 97 vs 80
+05:22.699	ID:14	lost with 97 vs 80
+05:22.718	ID:20	recv 'Hej', from 19.0 (origin 19.0) in 0 hops (seq 0) 
+05:22.720	ID:20	lost with 88 vs 80
+05:23.559	ID:24	sent
+05:23.588	ID:25	recv 'Hej', from 24.0 (origin 19.0) in 1 hops (seq 0) 
+05:23.597	ID:25	25.0: rdipro rebroadcasting 19.0/0 (0.0/0) hops 1 (won with 29 vs 80) (my furthest neighbor is at 81)
+05:23.600	ID:25	25.0: rdipro send to ipolite
+05:23.692	ID:23	recv 'Hej', from 24.0 (origin 19.0) in 1 hops (seq 0) 
+05:23.701	ID:23	23.0: rdipro rebroadcasting 19.0/0 (0.0/0) hops 1 (won with 29 vs 80) (my furthest neighbor is at 81)
+05:23.704	ID:23	23.0: rdipro send to ipolite
+05:24.491	ID:25	sent
+05:24.593	ID:20	recv 'Hej', from 25.0 (origin 19.0) in 2 hops (seq 0) 
+05:24.594	ID:23	sent
+05:24.602	ID:20	20.0: rdipro rebroadcasting 19.0/0 (0.0/0) hops 2 (won with 15 vs 80) (my furthest neighbor is at 81)
+05:24.604	ID:20	20.0: rdipro send to ipolite
+05:24.658	ID:22	recv 'Hej', from 23.0 (origin 19.0) in 2 hops (seq 0) 
+05:24.667	ID:22	22.0: rdipro rebroadcasting 19.0/0 (0.0/0) hops 2 (won with 29 vs 80) (my furthest neighbor is at 81)
+05:24.669	ID:22	22.0: rdipro send to ipolite
+05:24.699	ID:18	recv 'Hej', from 23.0 (origin 19.0) in 2 hops (seq 0) 
+05:24.707	ID:18	18.0: rdipro rebroadcasting 19.0/0 (13.0/0) hops 2 (won with 8 vs 80) (my furthest neighbor is at 81)
+05:24.710	ID:18	18.0: rdipro send to ipolite
+05:25.387	ID:20	sent
+05:25.459	ID:15	recv 'Hej', from 20.0 (origin 19.0) in 3 hops (seq 0) 
+05:25.468	ID:15	15.0: rdipro rebroadcasting 19.0/0 (0.0/0) hops 3 (won with 46 vs 80) (my furthest neighbor is at 81)
+05:25.470	ID:15	15.0: rdipro send to ipolite
+05:25.554	ID:22	sent
+05:25.653	ID:21	recv 'Hej', from 22.0 (origin 19.0) in 3 hops (seq 0) 
+05:25.655	ID:18	sent
+05:25.662	ID:21	21.0: rdipro rebroadcasting 19.0/0 (0.0/0) hops 3 (won with 29 vs 80) (my furthest neighbor is at 81)
+05:25.664	ID:21	21.0: rdipro send to ipolite
+05:25.754	ID:13	recv 'Hej', from 18.0 (origin 19.0) in 3 hops (seq 0) 
+05:25.757	ID:13	lost with 97 vs 80
+05:25.994	ID:15	sent
+05:26.053	ID:10	recv 'Hej', from 15.0 (origin 19.0) in 4 hops (seq 0) 
+05:26.062	ID:10	10.0: rdipro rebroadcasting 19.0/0 (0.0/0) hops 4 (won with 29 vs 80) (my furthest neighbor is at 81)
+05:26.064	ID:10	10.0: rdipro send to ipolite
+05:26.072	ID:14	recv 'Hej', from 15.0 (origin 19.0) in 4 hops (seq 0) 
+05:26.081	ID:14	14.0: rdipro rebroadcasting 19.0/0 (13.0/0) hops 4 (won with 8 vs 80) (my furthest neighbor is at 81)
+05:26.083	ID:14	14.0: rdipro send to ipolite
+05:26.555	ID:21	sent
+05:26.593	ID:16	recv 'Hej', from 21.0 (origin 19.0) in 4 hops (seq 0) 
+05:26.602	ID:16	16.0: rdipro rebroadcasting 19.0/0 (0.0/0) hops 4 (won with 29 vs 80) (my furthest neighbor is at 81)
+05:26.604	ID:16	16.0: rdipro send to ipolite
+05:26.955	ID:10	sent
+05:27.028	ID:14	sent
+05:27.128	ID:13	recv 'Hej', from 14.0 (origin 19.0) in 5 hops (seq 0) 
+05:27.137	ID:13	13.0: rdipro rebroadcasting 19.0/0 (13.0/0) hops 5 (won with 8 vs 80) (my furthest neighbor is at 81)
+05:27.139	ID:13	13.0: rdipro send to ipolite
+05:27.489	ID:16	sent
+05:27.556	ID:17	recv 'Hej', from 16.0 (origin 19.0) in 5 hops (seq 0) 
+05:27.561	ID:11	recv 'Hej', from 16.0 (origin 19.0) in 5 hops (seq 0) 
+05:27.565	ID:17	17.0: rdipro rebroadcasting 19.0/0 (0.0/0) hops 5 (won with 29 vs 80) (my furthest neighbor is at 81)
+05:27.567	ID:17	17.0: rdipro send to ipolite
+05:27.570	ID:11	11.0: rdipro rebroadcasting 19.0/0 (0.0/0) hops 5 (won with 29 vs 80) (my furthest neighbor is at 81)
+05:27.572	ID:11	11.0: rdipro send to ipolite
+05:28.079	ID:13	sent
+05:28.194	ID:8	recv 'Hej', from 13.0 (origin 19.0) in 6 hops (seq 0) 
+05:28.203	ID:8	8.0: rdipro rebroadcasting 19.0/0 (7.0/0) hops 6 (won with 8 vs 80) (my furthest neighbor is at 81)
+05:28.205	ID:8	8.0: rdipro send to ipolite
+05:28.216	ID:12	recv 'Hej', from 13.0 (origin 19.0) in 6 hops (seq 0) 
+05:28.225	ID:12	12.0: rdipro rebroadcasting 19.0/0 (7.0/0) hops 6 (won with 8 vs 80) (my furthest neighbor is at 81)
+05:28.227	ID:12	12.0: rdipro send to ipolite
+05:28.458	ID:17	sent
+05:28.464	ID:11	sent
+05:29.151	ID:8	sent
+05:29.173	ID:12	sent
+05:44.458	ID:25	25.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+05:44.459	ID:25	sent
+05:44.531	ID:24	recv 'Hej', from 25.0 (origin 25.0) in 0 hops (seq 0) 
+05:44.534	ID:24	lost with 97 vs 80
+05:44.593	ID:20	recv 'Hej', from 25.0 (origin 25.0) in 0 hops (seq 0) 
+05:44.602	ID:20	20.0: rdipro rebroadcasting 25.0/0 (19.0/0) hops 0 (won with 27 vs 80) (my furthest neighbor is at 81)
+05:44.604	ID:20	20.0: rdipro send to ipolite
+05:45.191	ID:20	sent
+05:45.208	ID:15	recv 'Hej', from 20.0 (origin 25.0) in 1 hops (seq 0) 
+05:45.216	ID:19	recv 'Hej', from 20.0 (origin 25.0) in 1 hops (seq 0) 
+05:45.217	ID:15	15.0: rdipro rebroadcasting 25.0/0 (19.0/0) hops 1 (won with 34 vs 80) (my furthest neighbor is at 81)
+05:45.219	ID:15	15.0: rdipro send to ipolite
+05:45.225	ID:19	19.0: rdipro rebroadcasting 25.0/0 (19.0/0) hops 1 (won with 29 vs 80) (my furthest neighbor is at 81)
+05:45.227	ID:19	19.0: rdipro send to ipolite
+05:46.118	ID:19	sent
+05:46.142	ID:15	sent
+06:47.834	ID:6	6.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+06:47.834	ID:6	sent
+06:47.877	ID:1	recv 'Hej', from 6.0 (origin 6.0) in 0 hops (seq 0) 
+06:47.886	ID:1	1.0: rdipro rebroadcasting 6.0/0 (1.0/0) hops 0 (won with 29 vs 80) (my furthest neighbor is at 81)
+06:47.888	ID:1	1.0: rdipro send to ipolite
+06:47.896	ID:7	recv 'Hej', from 6.0 (origin 6.0) in 0 hops (seq 0) 
+06:47.899	ID:7	lost with 97 vs 80
+06:47.936	ID:11	recv 'Hej', from 6.0 (origin 6.0) in 0 hops (seq 0) 
+06:47.939	ID:11	lost with 97 vs 80
+06:48.773	ID:1	sent
+06:48.856	ID:2	recv 'Hej', from 1.0 (origin 6.0) in 1 hops (seq 0) 
+06:48.864	ID:2	2.0: rdipro rebroadcasting 6.0/0 (1.0/0) hops 1 (won with 8 vs 80) (my furthest neighbor is at 81)
+06:48.867	ID:2	2.0: rdipro send to ipolite
+06:49.807	ID:2	sent
+06:49.895	ID:3	recv 'Hej', from 2.0 (origin 6.0) in 2 hops (seq 0) 
+06:49.897	ID:3	lost with 97 vs 80
+06:49.897	ID:7	recv 'Hej', from 2.0 (origin 6.0) in 2 hops (seq 0) 
+06:49.906	ID:7	7.0: rdipro rebroadcasting 6.0/0 (7.0/0) hops 2 (won with 8 vs 80) (my furthest neighbor is at 81)
+06:49.908	ID:7	7.0: rdipro send to ipolite
+06:50.847	ID:7	sent
+06:50.943	ID:8	recv 'Hej', from 7.0 (origin 6.0) in 3 hops (seq 0) 
+06:50.952	ID:8	8.0: rdipro rebroadcasting 6.0/0 (19.0/0) hops 3 (won with 76 vs 80) (my furthest neighbor is at 81)
+06:50.954	ID:8	8.0: rdipro send to ipolite
+06:50.965	ID:12	recv 'Hej', from 7.0 (origin 6.0) in 3 hops (seq 0) 
+06:50.974	ID:12	12.0: rdipro rebroadcasting 6.0/0 (19.0/0) hops 3 (won with 76 vs 80) (my furthest neighbor is at 81)
+06:50.976	ID:12	12.0: rdipro send to ipolite
+06:51.737	ID:8	sent
+06:51.753	ID:13	recv 'Hej', from 8.0 (origin 6.0) in 4 hops (seq 0) 
+06:51.759	ID:12	sent
+06:51.762	ID:13	13.0: rdipro rebroadcasting 6.0/0 (19.0/0) hops 4 (won with 76 vs 80) (my furthest neighbor is at 81)
+06:51.764	ID:13	13.0: rdipro send to ipolite
+06:51.769	ID:3	recv 'Hej', from 8.0 (origin 6.0) in 4 hops (seq 0) 
+06:51.778	ID:3	3.0: rdipro rebroadcasting 6.0/0 (1.0/0) hops 4 (won with 8 vs 80) (my furthest neighbor is at 81)
+06:51.780	ID:3	3.0: rdipro send to ipolite
+06:51.875	ID:13	dropped
+06:52.720	ID:3	sent
+07:08.578	ID:11	11.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+07:08.579	ID:11	sent
+07:08.622	ID:6	recv 'Hej', from 11.0 (origin 11.0) in 0 hops (seq 0) 
+07:08.631	ID:6	6.0: rdipro rebroadcasting 11.0/0 (6.0/0) hops 0 (won with 35 vs 80) (my furthest neighbor is at 81)
+07:08.633	ID:6	6.0: rdipro send to ipolite
+07:08.716	ID:12	recv 'Hej', from 11.0 (origin 11.0) in 0 hops (seq 0) 
+07:08.718	ID:16	recv 'Hej', from 11.0 (origin 11.0) in 0 hops (seq 0) 
+07:08.721	ID:16	lost with 97 vs 80
+07:08.725	ID:12	12.0: rdipro rebroadcasting 11.0/0 (6.0/0) hops 0 (won with 22 vs 81) (my furthest neighbor is at 81)
+07:08.727	ID:12	12.0: rdipro send to ipolite
+07:09.290	ID:6	sent
+07:09.376	ID:12	sent
+07:09.378	ID:1	recv 'Hej', from 6.0 (origin 11.0) in 1 hops (seq 0) 
+07:09.381	ID:1	lost with 97 vs 80
+07:09.432	ID:17	recv 'Hej', from 12.0 (origin 11.0) in 1 hops (seq 0) 
+07:09.435	ID:17	lost with 97 vs 80
+07:09.504	ID:13	recv 'Hej', from 12.0 (origin 11.0) in 1 hops (seq 0) 
+07:09.513	ID:13	13.0: rdipro rebroadcasting 11.0/0 (6.0/0) hops 1 (won with 4 vs 80) (my furthest neighbor is at 81)
+07:09.515	ID:13	13.0: rdipro send to ipolite
+07:10.017	ID:13	sent
+07:10.068	ID:8	recv 'Hej', from 13.0 (origin 11.0) in 2 hops (seq 0) 
+07:10.071	ID:14	recv 'Hej', from 13.0 (origin 11.0) in 2 hops (seq 0) 
+07:10.073	ID:18	recv 'Hej', from 13.0 (origin 11.0) in 2 hops (seq 0) 
+07:10.077	ID:8	8.0: rdipro rebroadcasting 11.0/0 (6.0/0) hops 2 (won with 4 vs 80) (my furthest neighbor is at 81)
+07:10.079	ID:8	8.0: rdipro send to ipolite
+07:10.080	ID:14	14.0: rdipro rebroadcasting 11.0/0 (19.0/0) hops 2 (won with 76 vs 80) (my furthest neighbor is at 81)
+07:10.082	ID:14	14.0: rdipro send to ipolite
+07:10.082	ID:18	18.0: rdipro rebroadcasting 11.0/0 (19.0/0) hops 2 (won with 76 vs 80) (my furthest neighbor is at 81)
+07:10.085	ID:18	18.0: rdipro send to ipolite
+07:10.581	ID:8	sent
+07:10.645	ID:3	recv 'Hej', from 8.0 (origin 11.0) in 3 hops (seq 0) 
+07:10.645	ID:7	recv 'Hej', from 8.0 (origin 11.0) in 3 hops (seq 0) 
+07:10.654	ID:3	3.0: rdipro rebroadcasting 11.0/0 (6.0/0) hops 3 (won with 76 vs 80) (my furthest neighbor is at 81)
+07:10.654	ID:7	7.0: rdipro rebroadcasting 11.0/0 (6.0/0) hops 3 (won with 76 vs 80) (my furthest neighbor is at 81)
+07:10.656	ID:3	3.0: rdipro send to ipolite
+07:10.656	ID:7	7.0: rdipro send to ipolite
+07:10.704	ID:9	recv 'Hej', from 8.0 (origin 11.0) in 3 hops (seq 0) 
+07:10.713	ID:9	9.0: rdipro rebroadcasting 11.0/0 (0.0/0) hops 3 (won with 29 vs 80) (my furthest neighbor is at 81)
+07:10.715	ID:9	9.0: rdipro send to ipolite
+07:10.864	ID:14	sent
+07:10.873	ID:18	sent
+07:11.439	ID:3	sent
+07:11.441	ID:7	sent
+07:11.599	ID:9	sent
+07:11.677	ID:10	recv 'Hej', from 9.0 (origin 11.0) in 4 hops (seq 0) 
+07:11.680	ID:10	lost with 97 vs 80
+07:11.720	ID:4	recv 'Hej', from 9.0 (origin 11.0) in 4 hops (seq 0) 
+07:11.729	ID:4	4.0: rdipro rebroadcasting 11.0/0 (0.0/0) hops 4 (won with 29 vs 80) (my furthest neighbor is at 81)
+07:11.731	ID:4	4.0: rdipro send to ipolite
+07:12.622	ID:4	sent
+07:12.710	ID:5	recv 'Hej', from 4.0 (origin 11.0) in 5 hops (seq 0) 
+07:12.719	ID:5	5.0: rdipro rebroadcasting 11.0/0 (0.0/0) hops 5 (won with 29 vs 80) (my furthest neighbor is at 81)
+07:12.721	ID:5	5.0: rdipro send to ipolite
+07:13.606	ID:5	sent
+07:13.678	ID:10	recv 'Hej', from 5.0 (origin 11.0) in 6 hops (seq 0) 
+07:13.687	ID:10	10.0: rdipro rebroadcasting 11.0/0 (19.0/0) hops 6 (won with 8 vs 80) (my furthest neighbor is at 81)
+07:13.690	ID:10	10.0: rdipro send to ipolite
+07:14.635	ID:10	sent
+07:30.400	ID:16	16.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+07:30.400	ID:16	sent
+07:30.430	ID:17	recv 'Hej', from 16.0 (origin 16.0) in 0 hops (seq 0) 
+07:30.436	ID:11	recv 'Hej', from 16.0 (origin 16.0) in 0 hops (seq 0) 
+07:30.439	ID:17	17.0: rdipro rebroadcasting 16.0/0 (19.0/0) hops 0 (won with 8 vs 80) (my furthest neighbor is at 81)
+07:30.441	ID:17	17.0: rdipro send to ipolite
+07:30.445	ID:11	11.0: rdipro rebroadcasting 16.0/0 (11.0/0) hops 0 (won with 8 vs 80) (my furthest neighbor is at 81)
+07:30.447	ID:11	11.0: rdipro send to ipolite
+07:30.526	ID:21	recv 'Hej', from 16.0 (origin 16.0) in 0 hops (seq 0) 
+07:30.529	ID:21	lost with 97 vs 80
+07:31.386	ID:11	sent
+07:31.387	ID:17	sent
+07:51.763	ID:21	21.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+07:51.764	ID:21	sent
+07:51.783	ID:22	recv 'Hej', from 21.0 (origin 21.0) in 0 hops (seq 0) 
+07:51.786	ID:22	lost with 97 vs 80
+07:51.842	ID:16	recv 'Hej', from 21.0 (origin 21.0) in 0 hops (seq 0) 
+07:51.851	ID:16	16.0: rdipro rebroadcasting 21.0/0 (16.0/0) hops 0 (won with 8 vs 80) (my furthest neighbor is at 81)
+07:51.853	ID:16	16.0: rdipro send to ipolite
+07:52.793	ID:16	sent
+07:52.812	ID:11	recv 'Hej', from 16.0 (origin 21.0) in 1 hops (seq 0) 
+07:52.822	ID:11	11.0: rdipro rebroadcasting 21.0/0 (16.0/0) hops 1 (won with 76 vs 80) (my furthest neighbor is at 81)
+07:52.824	ID:11	11.0: rdipro send to ipolite
+07:52.930	ID:17	recv 'Hej', from 16.0 (origin 21.0) in 1 hops (seq 0) 
+07:52.939	ID:17	17.0: rdipro rebroadcasting 21.0/0 (16.0/0) hops 1 (won with 76 vs 80) (my furthest neighbor is at 81)
+07:52.941	ID:17	17.0: rdipro send to ipolite
+07:53.612	ID:11	sent
+07:53.714	ID:12	recv 'Hej', from 11.0 (origin 21.0) in 2 hops (seq 0) 
+07:53.723	ID:12	12.0: rdipro rebroadcasting 21.0/0 (11.0/0) hops 2 (won with 18 vs 80) (my furthest neighbor is at 81)
+07:53.725	ID:12	12.0: rdipro send to ipolite
+07:53.731	ID:17	sent
+07:53.785	ID:22	recv 'Hej', from 17.0 (origin 21.0) in 2 hops (seq 0) 
+07:53.794	ID:22	22.0: rdipro rebroadcasting 21.0/0 (19.0/0) hops 2 (won with 8 vs 80) (my furthest neighbor is at 81)
+07:53.796	ID:22	22.0: rdipro send to ipolite
+07:53.822	ID:18	recv 'Hej', from 17.0 (origin 21.0) in 2 hops (seq 0) 
+07:53.831	ID:18	18.0: rdipro rebroadcasting 21.0/0 (11.0/0) hops 2 (won with 4 vs 80) (my furthest neighbor is at 81)
+07:53.834	ID:18	18.0: rdipro send to ipolite
+07:53.837	ID:12	dropped
+07:54.342	ID:18	sent
+07:54.380	ID:13	recv 'Hej', from 18.0 (origin 21.0) in 3 hops (seq 0) 
+07:54.383	ID:13	lost with 96 vs 80
+07:54.441	ID:23	recv 'Hej', from 18.0 (origin 21.0) in 3 hops (seq 0) 
+07:54.444	ID:23	lost with 97 vs 80
+07:54.463	ID:19	recv 'Hej', from 18.0 (origin 21.0) in 3 hops (seq 0) 
+07:54.465	ID:19	lost with 97 vs 80
+07:54.741	ID:22	sent
+07:54.817	ID:23	recv 'Hej', from 22.0 (origin 21.0) in 3 hops (seq 0) 
+07:54.826	ID:23	23.0: rdipro rebroadcasting 21.0/0 (19.0/0) hops 3 (won with 8 vs 80) (my furthest neighbor is at 81)
+07:54.828	ID:23	23.0: rdipro send to ipolite
+07:55.773	ID:23	sent
+07:55.905	ID:24	recv 'Hej', from 23.0 (origin 21.0) in 4 hops (seq 0) 
+07:55.914	ID:24	24.0: rdipro rebroadcasting 21.0/0 (19.0/0) hops 4 (won with 8 vs 80) (my furthest neighbor is at 81)
+07:55.916	ID:24	24.0: rdipro send to ipolite
+07:56.855	ID:24	sent
+07:56.963	ID:25	recv 'Hej', from 24.0 (origin 21.0) in 5 hops (seq 0) 
+07:56.965	ID:25	lost with 97 vs 80
+07:56.965	ID:19	recv 'Hej', from 24.0 (origin 21.0) in 5 hops (seq 0) 
+07:56.974	ID:19	19.0: rdipro rebroadcasting 21.0/0 (25.0/0) hops 5 (won with 8 vs 80) (my furthest neighbor is at 81)
+07:56.976	ID:19	19.0: rdipro send to ipolite
+07:57.922	ID:19	sent
+07:57.947	ID:14	recv 'Hej', from 19.0 (origin 21.0) in 6 hops (seq 0) 
+07:57.956	ID:14	14.0: rdipro rebroadcasting 21.0/0 (11.0/0) hops 6 (won with 4 vs 80) (my furthest neighbor is at 81)
+07:57.958	ID:14	14.0: rdipro send to ipolite
+07:57.968	ID:20	recv 'Hej', from 19.0 (origin 21.0) in 6 hops (seq 0) 
+07:57.977	ID:20	20.0: rdipro rebroadcasting 21.0/0 (25.0/0) hops 6 (won with 47 vs 80) (my furthest neighbor is at 81)
+07:57.979	ID:20	20.0: rdipro send to ipolite
+07:58.466	ID:14	sent
+07:58.504	ID:13	recv 'Hej', from 14.0 (origin 21.0) in 7 hops (seq 0) 
+07:58.513	ID:13	13.0: rdipro rebroadcasting 21.0/0 (11.0/0) hops 7 (won with 27 vs 80) (my furthest neighbor is at 81)
+07:58.515	ID:13	13.0: rdipro send to ipolite
+07:58.578	ID:9	recv 'Hej', from 14.0 (origin 21.0) in 7 hops (seq 0) 
+07:58.581	ID:9	lost with 97 vs 80
+07:58.584	ID:15	recv 'Hej', from 14.0 (origin 21.0) in 7 hops (seq 0) 
+07:58.593	ID:15	15.0: rdipro rebroadcasting 21.0/0 (25.0/0) hops 7 (won with 34 vs 80) (my furthest neighbor is at 81)
+07:58.595	ID:15	15.0: rdipro send to ipolite
+07:58.637	ID:20	sent
+07:58.705	ID:15	dropped
+07:58.714	ID:25	recv 'Hej', from 20.0 (origin 21.0) in 7 hops (seq 0) 
+07:58.723	ID:25	25.0: rdipro rebroadcasting 21.0/0 (25.0/0) hops 7 (won with 8 vs 80) (my furthest neighbor is at 81)
+07:58.726	ID:25	25.0: rdipro send to ipolite
+07:59.103	ID:13	sent
+07:59.194	ID:8	recv 'Hej', from 13.0 (origin 21.0) in 8 hops (seq 0) 
+07:59.196	ID:8	lost with 96 vs 80
+07:59.671	ID:25	sent
+08:13.488	ID:22	22.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+08:13.489	ID:22	sent
+08:13.527	ID:21	recv 'Hej', from 22.0 (origin 22.0) in 0 hops (seq 0) 
+08:13.536	ID:21	21.0: rdipro rebroadcasting 22.0/0 (21.0/0) hops 0 (won with 8 vs 80) (my furthest neighbor is at 81)
+08:13.538	ID:21	21.0: rdipro send to ipolite
+08:13.556	ID:17	recv 'Hej', from 22.0 (origin 22.0) in 0 hops (seq 0) 
+08:13.565	ID:17	17.0: rdipro rebroadcasting 22.0/0 (21.0/0) hops 0 (won with 4 vs 80) (my furthest neighbor is at 81)
+08:13.567	ID:23	recv 'Hej', from 22.0 (origin 22.0) in 0 hops (seq 0) 
+08:13.567	ID:17	17.0: rdipro send to ipolite
+08:13.576	ID:23	23.0: rdipro rebroadcasting 22.0/0 (21.0/0) hops 0 (won with 76 vs 80) (my furthest neighbor is at 81)
+08:13.578	ID:23	23.0: rdipro send to ipolite
+08:14.075	ID:17	sent
+08:14.091	ID:12	recv 'Hej', from 17.0 (origin 22.0) in 1 hops (seq 0) 
+08:14.094	ID:16	recv 'Hej', from 17.0 (origin 22.0) in 1 hops (seq 0) 
+08:14.100	ID:12	12.0: rdipro rebroadcasting 22.0/0 (21.0/0) hops 1 (won with 62 vs 80) (my furthest neighbor is at 81)
+08:14.103	ID:12	12.0: rdipro send to ipolite
+08:14.103	ID:16	16.0: rdipro rebroadcasting 22.0/0 (21.0/0) hops 1 (won with 76 vs 80) (my furthest neighbor is at 81)
+08:14.105	ID:16	16.0: rdipro send to ipolite
+08:14.195	ID:18	recv 'Hej', from 17.0 (origin 22.0) in 1 hops (seq 0) 
+08:14.198	ID:18	lost with 96 vs 80
+08:14.367	ID:23	sent
+08:14.405	ID:24	recv 'Hej', from 23.0 (origin 22.0) in 1 hops (seq 0) 
+08:14.414	ID:24	24.0: rdipro rebroadcasting 22.0/0 (21.0/0) hops 1 (won with 76 vs 80) (my furthest neighbor is at 81)
+08:14.416	ID:24	24.0: rdipro send to ipolite
+08:14.448	ID:18	recv 'Hej', from 23.0 (origin 22.0) in 1 hops (seq 0) 
+08:14.457	ID:18	18.0: rdipro rebroadcasting 22.0/0 (21.0/0) hops 1 (won with 27 vs 80) (my furthest neighbor is at 81)
+08:14.459	ID:18	18.0: rdipro send to ipolite
+08:14.477	ID:21	sent
+08:14.591	ID:16	dropped
+08:14.688	ID:12	sent
+08:14.755	ID:13	recv 'Hej', from 12.0 (origin 22.0) in 2 hops (seq 0) 
+08:14.764	ID:13	13.0: rdipro rebroadcasting 22.0/0 (21.0/0) hops 2 (won with 15 vs 80) (my furthest neighbor is at 81)
+08:14.767	ID:13	13.0: rdipro send to ipolite
+08:14.771	ID:7	recv 'Hej', from 12.0 (origin 22.0) in 2 hops (seq 0) 
+08:14.780	ID:7	7.0: rdipro rebroadcasting 22.0/0 (11.0/0) hops 2 (won with 4 vs 80) (my furthest neighbor is at 81)
+08:14.782	ID:7	7.0: rdipro send to ipolite
+08:14.811	ID:11	recv 'Hej', from 12.0 (origin 22.0) in 2 hops (seq 0) 
+08:14.820	ID:11	11.0: rdipro rebroadcasting 22.0/0 (21.0/0) hops 2 (won with 4 vs 80) (my furthest neighbor is at 81)
+08:14.822	ID:11	11.0: rdipro send to ipolite
+08:15.053	ID:18	sent
+08:15.091	ID:19	recv 'Hej', from 18.0 (origin 22.0) in 2 hops (seq 0) 
+08:15.100	ID:19	19.0: rdipro rebroadcasting 22.0/0 (21.0/0) hops 2 (won with 76 vs 80) (my furthest neighbor is at 81)
+08:15.102	ID:19	19.0: rdipro send to ipolite
+08:15.127	ID:13	dropped
+08:15.199	ID:24	sent
+08:15.212	ID:19	dropped
+08:15.285	ID:7	sent
+08:15.317	ID:8	recv 'Hej', from 7.0 (origin 22.0) in 3 hops (seq 0) 
+08:15.326	ID:8	8.0: rdipro rebroadcasting 22.0/0 (11.0/0) hops 3 (won with 27 vs 80) (my furthest neighbor is at 81)
+08:15.328	ID:8	8.0: rdipro send to ipolite
+08:15.331	ID:11	sent
+08:15.338	ID:25	recv 'Hej', from 24.0 (origin 22.0) in 2 hops (seq 0) 
+08:15.348	ID:25	25.0: rdipro rebroadcasting 22.0/0 (21.0/0) hops 2 (won with 76 vs 80) (my furthest neighbor is at 81)
+08:15.350	ID:25	25.0: rdipro send to ipolite
+08:15.917	ID:8	sent
+08:15.954	ID:9	recv 'Hej', from 8.0 (origin 22.0) in 4 hops (seq 0) 
+08:15.963	ID:9	9.0: rdipro rebroadcasting 22.0/0 (11.0/0) hops 4 (won with 8 vs 80) (my furthest neighbor is at 81)
+08:15.965	ID:9	9.0: rdipro send to ipolite
+08:16.021	ID:3	recv 'Hej', from 8.0 (origin 22.0) in 4 hops (seq 0) 
+08:16.030	ID:3	3.0: rdipro rebroadcasting 22.0/0 (11.0/0) hops 4 (won with 4 vs 80) (my furthest neighbor is at 81)
+08:16.032	ID:3	3.0: rdipro send to ipolite
+08:16.139	ID:25	sent
+08:16.217	ID:20	recv 'Hej', from 25.0 (origin 22.0) in 3 hops (seq 0) 
+08:16.226	ID:20	20.0: rdipro rebroadcasting 22.0/0 (21.0/0) hops 3 (won with 7 vs 80) (my furthest neighbor is at 81)
+08:16.228	ID:20	20.0: rdipro send to ipolite
+08:16.540	ID:3	sent
+08:16.594	ID:4	recv 'Hej', from 3.0 (origin 22.0) in 5 hops (seq 0) 
+08:16.596	ID:4	lost with 97 vs 80
+08:16.604	ID:2	recv 'Hej', from 3.0 (origin 22.0) in 5 hops (seq 0) 
+08:16.613	ID:2	2.0: rdipro rebroadcasting 22.0/0 (6.0/0) hops 5 (won with 76 vs 80) (my furthest neighbor is at 81)
+08:16.615	ID:2	2.0: rdipro send to ipolite
+08:16.912	ID:9	sent
+08:16.928	ID:10	recv 'Hej', from 9.0 (origin 22.0) in 5 hops (seq 0) 
+08:16.937	ID:10	10.0: rdipro rebroadcasting 22.0/0 (11.0/0) hops 5 (won with 76 vs 80) (my furthest neighbor is at 81)
+08:16.939	ID:10	10.0: rdipro send to ipolite
+08:16.947	ID:14	recv 'Hej', from 9.0 (origin 22.0) in 5 hops (seq 0) 
+08:16.949	ID:14	lost with 96 vs 80
+08:16.968	ID:4	recv 'Hej', from 9.0 (origin 22.0) in 5 hops (seq 0) 
+08:16.977	ID:4	4.0: rdipro rebroadcasting 22.0/0 (11.0/0) hops 5 (won with 8 vs 80) (my furthest neighbor is at 81)
+08:16.979	ID:4	4.0: rdipro send to ipolite
+08:17.191	ID:20	sent
+08:17.208	ID:15	recv 'Hej', from 20.0 (origin 22.0) in 4 hops (seq 0) 
+08:17.217	ID:15	15.0: rdipro rebroadcasting 22.0/0 (21.0/0) hops 4 (won with 50 vs 80) (my furthest neighbor is at 81)
+08:17.219	ID:15	15.0: rdipro send to ipolite
+08:17.400	ID:2	sent
+08:17.502	ID:1	recv 'Hej', from 2.0 (origin 22.0) in 6 hops (seq 0) 
+08:17.511	ID:1	1.0: rdipro rebroadcasting 22.0/0 (6.0/0) hops 6 (won with 8 vs 80) (my furthest neighbor is at 81)
+08:17.513	ID:1	1.0: rdipro send to ipolite
+08:17.728	ID:10	sent
+08:17.829	ID:15	dropped
+08:17.836	ID:5	recv 'Hej', from 10.0 (origin 22.0) in 6 hops (seq 0) 
+08:17.838	ID:5	lost with 97 vs 80
+08:17.919	ID:4	sent
+08:17.962	ID:5	recv 'Hej', from 4.0 (origin 22.0) in 6 hops (seq 0) 
+08:17.971	ID:5	5.0: rdipro rebroadcasting 22.0/0 (11.0/0) hops 6 (won with 8 vs 80) (my furthest neighbor is at 81)
+08:17.973	ID:5	5.0: rdipro send to ipolite
+08:18.453	ID:1	sent
+08:18.496	ID:6	recv 'Hej', from 1.0 (origin 22.0) in 7 hops (seq 0) 
+08:18.505	ID:6	6.0: rdipro rebroadcasting 22.0/0 (11.0/0) hops 7 (won with 15 vs 80) (my furthest neighbor is at 81)
+08:18.507	ID:6	6.0: rdipro send to ipolite
+08:18.918	ID:5	sent
+08:19.470	ID:6	sent
+10:41.477	ID:2	2.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+10:41.477	ID:2	sent
+10:41.520	ID:3	recv 'Hej', from 2.0 (origin 2.0) in 0 hops (seq 0) 
+10:41.523	ID:3	lost with 96 vs 80
+10:41.523	ID:7	recv 'Hej', from 2.0 (origin 2.0) in 0 hops (seq 0) 
+10:41.525	ID:7	lost with 96 vs 80
+14:39.193	ID:3	3.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+14:39.194	ID:3	sent
+14:39.218	ID:4	recv 'Hej', from 3.0 (origin 3.0) in 0 hops (seq 0) 
+14:39.227	ID:4	4.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 0 (won with 76 vs 80) (my furthest neighbor is at 81)
+14:39.229	ID:4	4.0: rdipro send to ipolite
+14:39.232	ID:2	recv 'Hej', from 3.0 (origin 3.0) in 0 hops (seq 0) 
+14:39.240	ID:2	2.0: rdipro rebroadcasting 3.0/0 (2.0/0) hops 0 (won with 4 vs 80) (my furthest neighbor is at 81)
+14:39.242	ID:2	2.0: rdipro send to ipolite
+14:39.320	ID:8	recv 'Hej', from 3.0 (origin 3.0) in 0 hops (seq 0) 
+14:39.328	ID:8	8.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 0 (won with 15 vs 80) (my furthest neighbor is at 81)
+14:39.330	ID:8	8.0: rdipro send to ipolite
+14:39.744	ID:2	sent
+14:39.771	ID:7	recv 'Hej', from 2.0 (origin 3.0) in 1 hops (seq 0) 
+14:39.780	ID:7	7.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 1 (won with 27 vs 80) (my furthest neighbor is at 81)
+14:39.782	ID:7	7.0: rdipro send to ipolite
+14:39.878	ID:1	recv 'Hej', from 2.0 (origin 3.0) in 1 hops (seq 0) 
+14:39.887	ID:1	1.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 1 (won with 76 vs 80) (my furthest neighbor is at 81)
+14:39.889	ID:1	1.0: rdipro send to ipolite
+14:39.987	ID:8	sent
+14:40.003	ID:13	recv 'Hej', from 8.0 (origin 3.0) in 1 hops (seq 0) 
+14:40.012	ID:13	13.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 1 (won with 71 vs 80) (my furthest neighbor is at 81)
+14:40.013	ID:4	sent
+14:40.014	ID:13	13.0: rdipro send to ipolite
+14:40.018	ID:7	dropped
+14:40.671	ID:1	sent
+14:40.746	ID:6	recv 'Hej', from 1.0 (origin 3.0) in 2 hops (seq 0) 
+14:40.755	ID:6	6.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 2 (won with 11 vs 80) (my furthest neighbor is at 81)
+14:40.757	ID:6	6.0: rdipro send to ipolite
+14:40.978	ID:13	sent
+14:41.069	ID:14	recv 'Hej', from 13.0 (origin 3.0) in 2 hops (seq 0) 
+14:41.071	ID:18	recv 'Hej', from 13.0 (origin 3.0) in 2 hops (seq 0) 
+14:41.078	ID:14	14.0: rdipro rebroadcasting 3.0/0 (21.0/0) hops 2 (won with 27 vs 80) (my furthest neighbor is at 81)
+14:41.080	ID:14	14.0: rdipro send to ipolite
+14:41.080	ID:18	18.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 2 (won with 15 vs 80) (my furthest neighbor is at 81)
+14:41.082	ID:18	18.0: rdipro send to ipolite
+14:41.090	ID:12	recv 'Hej', from 13.0 (origin 3.0) in 2 hops (seq 0) 
+14:41.099	ID:12	12.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 2 (won with 66 vs 80) (my furthest neighbor is at 81)
+14:41.101	ID:12	12.0: rdipro send to ipolite
+14:41.282	ID:6	sent
+14:41.312	ID:11	recv 'Hej', from 6.0 (origin 3.0) in 3 hops (seq 0) 
+14:41.314	ID:11	lost with 96 vs 80
+14:41.669	ID:14	sent
+14:41.704	ID:9	recv 'Hej', from 14.0 (origin 3.0) in 3 hops (seq 0) 
+14:41.709	ID:15	recv 'Hej', from 14.0 (origin 3.0) in 3 hops (seq 0) 
+14:41.713	ID:9	9.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 3 (won with 76 vs 80) (my furthest neighbor is at 81)
+14:41.715	ID:19	recv 'Hej', from 14.0 (origin 3.0) in 3 hops (seq 0) 
+14:41.715	ID:9	9.0: rdipro send to ipolite
+14:41.718	ID:15	15.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 3 (won with 2 vs 80) (my furthest neighbor is at 81)
+14:41.720	ID:15	15.0: rdipro send to ipolite
+14:41.724	ID:19	19.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 3 (won with 4 vs 80) (my furthest neighbor is at 81)
+14:41.726	ID:19	19.0: rdipro send to ipolite
+14:41.733	ID:18	sent
+14:41.816	ID:23	recv 'Hej', from 18.0 (origin 3.0) in 3 hops (seq 0) 
+14:41.825	ID:23	23.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 3 (won with 4 vs 80) (my furthest neighbor is at 81)
+14:41.827	ID:23	23.0: rdipro send to ipolite
+14:41.836	ID:19	dropped
+14:41.837	ID:12	sent
+14:41.930	ID:17	recv 'Hej', from 12.0 (origin 3.0) in 3 hops (seq 0) 
+14:41.933	ID:17	lost with 96 vs 80
+14:41.936	ID:11	recv 'Hej', from 12.0 (origin 3.0) in 3 hops (seq 0) 
+14:41.945	ID:11	11.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 3 (won with 27 vs 80) (my furthest neighbor is at 81)
+14:41.947	ID:11	11.0: rdipro send to ipolite
+14:42.328	ID:23	sent
+14:42.406	ID:24	recv 'Hej', from 23.0 (origin 3.0) in 4 hops (seq 0) 
+14:42.409	ID:22	recv 'Hej', from 23.0 (origin 3.0) in 4 hops (seq 0) 
+14:42.415	ID:24	24.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 4 (won with 4 vs 80) (my furthest neighbor is at 81)
+14:42.417	ID:24	24.0: rdipro send to ipolite
+14:42.417	ID:22	22.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 4 (won with 76 vs 80) (my furthest neighbor is at 81)
+14:42.420	ID:22	22.0: rdipro send to ipolite
+14:42.498	ID:9	sent
+14:42.534	ID:11	sent
+14:42.551	ID:10	recv 'Hej', from 9.0 (origin 3.0) in 4 hops (seq 0) 
+14:42.560	ID:10	10.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 4 (won with 4 vs 80) (my furthest neighbor is at 81)
+14:42.562	ID:10	10.0: rdipro send to ipolite
+14:42.593	ID:16	recv 'Hej', from 11.0 (origin 3.0) in 4 hops (seq 0) 
+14:42.602	ID:16	16.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 4 (won with 4 vs 80) (my furthest neighbor is at 81)
+14:42.604	ID:16	16.0: rdipro send to ipolite
+14:42.619	ID:15	sent
+14:42.674	ID:10	dropped
+14:42.718	ID:20	recv 'Hej', from 15.0 (origin 3.0) in 4 hops (seq 0) 
+14:42.727	ID:20	20.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 4 (won with 27 vs 80) (my furthest neighbor is at 81)
+14:42.729	ID:20	20.0: rdipro send to ipolite
+14:42.926	ID:24	sent
+14:42.963	ID:25	recv 'Hej', from 24.0 (origin 3.0) in 5 hops (seq 0) 
+14:42.972	ID:25	25.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 5 (won with 4 vs 80) (my furthest neighbor is at 81)
+14:42.975	ID:25	25.0: rdipro send to ipolite
+14:43.106	ID:16	sent
+14:43.152	ID:21	recv 'Hej', from 16.0 (origin 3.0) in 5 hops (seq 0) 
+14:43.161	ID:21	21.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 5 (won with 76 vs 80) (my furthest neighbor is at 81)
+14:43.163	ID:21	21.0: rdipro send to ipolite
+14:43.181	ID:17	recv 'Hej', from 16.0 (origin 3.0) in 5 hops (seq 0) 
+14:43.190	ID:17	17.0: rdipro rebroadcasting 3.0/0 (22.0/0) hops 5 (won with 27 vs 80) (my furthest neighbor is at 81)
+14:43.192	ID:17	17.0: rdipro send to ipolite
+14:43.202	ID:22	sent
+14:43.254	ID:20	sent
+14:43.274	ID:21	dropped
+14:43.300	ID:17	dropped
+14:43.336	ID:25	dropped
+15:00.697	ID:4	4.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+15:00.698	ID:4	sent
+15:00.770	ID:3	recv 'Hej', from 4.0 (origin 4.0) in 0 hops (seq 0) 
+15:00.779	ID:3	3.0: rdipro rebroadcasting 4.0/0 (3.0/0) hops 0 (won with 27 vs 80) (my furthest neighbor is at 81)
+15:00.781	ID:3	3.0: rdipro send to ipolite
+15:00.828	ID:9	recv 'Hej', from 4.0 (origin 4.0) in 0 hops (seq 0) 
+15:00.837	ID:5	recv 'Hej', from 4.0 (origin 4.0) in 0 hops (seq 0) 
+15:00.837	ID:9	9.0: rdipro rebroadcasting 4.0/0 (3.0/0) hops 0 (won with 4 vs 80) (my furthest neighbor is at 81)
+15:00.839	ID:9	9.0: rdipro send to ipolite
+15:00.845	ID:5	5.0: rdipro rebroadcasting 4.0/0 (22.0/0) hops 0 (won with 76 vs 80) (my furthest neighbor is at 81)
+15:00.847	ID:5	5.0: rdipro send to ipolite
+15:01.341	ID:9	sent
+15:01.368	ID:3	sent
+15:01.637	ID:5	sent
+15:01.677	ID:10	recv 'Hej', from 5.0 (origin 4.0) in 1 hops (seq 0) 
+15:01.680	ID:10	lost with 96 vs 80
+18:36.581	ID:5	5.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+18:36.581	ID:5	sent
+18:36.677	ID:10	recv 'Hej', from 5.0 (origin 5.0) in 0 hops (seq 0) 
+18:36.686	ID:10	10.0: rdipro rebroadcasting 5.0/0 (3.0/0) hops 0 (won with 27 vs 80) (my furthest neighbor is at 81)
+18:36.688	ID:10	10.0: rdipro send to ipolite
+18:36.720	ID:4	recv 'Hej', from 5.0 (origin 5.0) in 0 hops (seq 0) 
+18:36.729	ID:4	4.0: rdipro rebroadcasting 5.0/0 (4.0/0) hops 0 (won with 4 vs 80) (my furthest neighbor is at 81)
+18:36.731	ID:4	4.0: rdipro send to ipolite
+18:37.239	ID:4	sent
+18:37.269	ID:3	recv 'Hej', from 4.0 (origin 5.0) in 1 hops (seq 0) 
+18:37.277	ID:3	3.0: rdipro rebroadcasting 5.0/0 (4.0/0) hops 1 (won with 15 vs 80) (my furthest neighbor is at 81)
+18:37.279	ID:3	3.0: rdipro send to ipolite
+18:37.283	ID:10	sent
+18:37.931	ID:3	sent
+18:37.982	ID:2	recv 'Hej', from 3.0 (origin 5.0) in 2 hops (seq 0) 
+18:37.984	ID:2	lost with 96 vs 80
+18:38.070	ID:8	recv 'Hej', from 3.0 (origin 5.0) in 2 hops (seq 0) 
+18:38.078	ID:8	8.0: rdipro rebroadcasting 5.0/0 (3.0/0) hops 2 (won with 71 vs 80) (my furthest neighbor is at 81)
+18:38.080	ID:8	8.0: rdipro send to ipolite
+18:39.049	ID:8	sent
+18:39.079	ID:9	recv 'Hej', from 8.0 (origin 5.0) in 3 hops (seq 0) 
+18:39.082	ID:9	lost with 96 vs 80
+18:39.130	ID:13	recv 'Hej', from 8.0 (origin 5.0) in 3 hops (seq 0) 
+18:39.139	ID:13	13.0: rdipro rebroadcasting 5.0/0 (3.0/0) hops 3 (won with 79 vs 80) (my furthest neighbor is at 81)
+18:39.141	ID:13	13.0: rdipro send to ipolite
+18:39.148	ID:7	recv 'Hej', from 8.0 (origin 5.0) in 3 hops (seq 0) 
+18:39.157	ID:7	7.0: rdipro rebroadcasting 5.0/0 (3.0/0) hops 3 (won with 15 vs 80) (my furthest neighbor is at 81)
+18:39.159	ID:7	7.0: rdipro send to ipolite
+18:39.673	ID:13	sent
+18:39.695	ID:14	recv 'Hej', from 13.0 (origin 5.0) in 4 hops (seq 0) 
+18:39.697	ID:18	recv 'Hej', from 13.0 (origin 5.0) in 4 hops (seq 0) 
+18:39.704	ID:14	14.0: rdipro rebroadcasting 5.0/0 (3.0/0) hops 4 (won with 15 vs 80) (my furthest neighbor is at 81)
+18:39.706	ID:14	14.0: rdipro send to ipolite
+18:39.706	ID:18	18.0: rdipro rebroadcasting 5.0/0 (3.0/0) hops 4 (won with 71 vs 80) (my furthest neighbor is at 81)
+18:39.708	ID:18	18.0: rdipro send to ipolite
+18:39.716	ID:12	recv 'Hej', from 13.0 (origin 5.0) in 4 hops (seq 0) 
+18:39.725	ID:12	12.0: rdipro rebroadcasting 5.0/0 (3.0/0) hops 4 (won with 58 vs 80) (my furthest neighbor is at 81)
+18:39.727	ID:12	12.0: rdipro send to ipolite
+18:39.816	ID:7	sent
+18:39.837	ID:12	dropped
+18:39.856	ID:2	recv 'Hej', from 7.0 (origin 5.0) in 4 hops (seq 0) 
+18:39.865	ID:2	2.0: rdipro rebroadcasting 5.0/0 (3.0/0) hops 4 (won with 27 vs 80) (my furthest neighbor is at 81)
+18:39.867	ID:2	2.0: rdipro send to ipolite
+18:39.872	ID:6	recv 'Hej', from 7.0 (origin 5.0) in 4 hops (seq 0) 
+18:39.881	ID:6	6.0: rdipro rebroadcasting 5.0/0 (3.0/0) hops 4 (won with 23 vs 80) (my furthest neighbor is at 81)
+18:39.883	ID:6	6.0: rdipro send to ipolite
+18:40.356	ID:14	sent
+18:40.453	ID:9	recv 'Hej', from 14.0 (origin 5.0) in 5 hops (seq 0) 
+18:40.455	ID:2	sent
+18:40.458	ID:15	recv 'Hej', from 14.0 (origin 5.0) in 5 hops (seq 0) 
+18:40.461	ID:15	lost with 94 vs 80
+18:40.462	ID:9	9.0: rdipro rebroadcasting 5.0/0 (4.0/0) hops 5 (won with 27 vs 80) (my furthest neighbor is at 81)
+18:40.464	ID:9	9.0: rdipro send to ipolite
+18:40.466	ID:19	recv 'Hej', from 14.0 (origin 5.0) in 5 hops (seq 0) 
+18:40.469	ID:19	lost with 96 vs 80
+18:40.503	ID:1	recv 'Hej', from 2.0 (origin 5.0) in 5 hops (seq 0) 
+18:40.512	ID:1	1.0: rdipro rebroadcasting 5.0/0 (3.0/0) hops 5 (won with 4 vs 80) (my furthest neighbor is at 81)
+18:40.514	ID:1	1.0: rdipro send to ipolite
+18:40.678	ID:18	sent
+18:40.716	ID:19	recv 'Hej', from 18.0 (origin 5.0) in 5 hops (seq 0) 
+18:40.725	ID:19	19.0: rdipro rebroadcasting 5.0/0 (3.0/0) hops 5 (won with 27 vs 80) (my furthest neighbor is at 81)
+18:40.727	ID:19	19.0: rdipro send to ipolite
+18:40.727	ID:6	sent
+18:40.748	ID:1	dropped
+18:40.817	ID:23	recv 'Hej', from 18.0 (origin 5.0) in 5 hops (seq 0) 
+18:40.820	ID:23	lost with 96 vs 80
+18:41.052	ID:9	sent
+18:41.321	ID:19	sent
+18:41.342	ID:20	recv 'Hej', from 19.0 (origin 5.0) in 6 hops (seq 0) 
+18:41.345	ID:20	lost with 95 vs 80
+18:41.406	ID:24	recv 'Hej', from 19.0 (origin 5.0) in 6 hops (seq 0) 
+18:41.409	ID:24	lost with 96 vs 80
+19:05.819	ID:10	10.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+19:05.820	ID:10	sent
+19:05.836	ID:5	recv 'Hej', from 10.0 (origin 10.0) in 0 hops (seq 0) 
+19:05.845	ID:5	5.0: rdipro rebroadcasting 10.0/0 (5.0/0) hops 0 (won with 4 vs 80) (my furthest neighbor is at 81)
+19:05.847	ID:5	5.0: rdipro send to ipolite
+19:05.954	ID:9	recv 'Hej', from 10.0 (origin 10.0) in 0 hops (seq 0) 
+19:05.959	ID:15	recv 'Hej', from 10.0 (origin 10.0) in 0 hops (seq 0) 
+19:05.963	ID:9	9.0: rdipro rebroadcasting 10.0/0 (5.0/0) hops 0 (won with 15 vs 80) (my furthest neighbor is at 81)
+19:05.965	ID:9	9.0: rdipro send to ipolite
+19:05.968	ID:15	15.0: rdipro rebroadcasting 10.0/0 (3.0/0) hops 0 (won with 49 vs 80) (my furthest neighbor is at 81)
+19:05.970	ID:15	15.0: rdipro send to ipolite
+19:06.356	ID:5	sent
+19:06.468	ID:4	recv 'Hej', from 5.0 (origin 10.0) in 1 hops (seq 0) 
+19:06.471	ID:4	lost with 96 vs 80
+19:06.615	ID:9	sent
+19:06.692	ID:8	recv 'Hej', from 9.0 (origin 10.0) in 1 hops (seq 0) 
+19:06.695	ID:14	recv 'Hej', from 9.0 (origin 10.0) in 1 hops (seq 0) 
+19:06.701	ID:8	8.0: rdipro rebroadcasting 10.0/0 (5.0/0) hops 1 (won with 79 vs 80) (my furthest neighbor is at 81)
+19:06.703	ID:8	8.0: rdipro send to ipolite
+19:06.704	ID:14	14.0: rdipro rebroadcasting 10.0/0 (5.0/0) hops 1 (won with 71 vs 80) (my furthest neighbor is at 81)
+19:06.706	ID:14	14.0: rdipro send to ipolite
+19:06.719	ID:4	recv 'Hej', from 9.0 (origin 10.0) in 1 hops (seq 0) 
+19:06.728	ID:4	4.0: rdipro rebroadcasting 10.0/0 (5.0/0) hops 1 (won with 27 vs 80) (my furthest neighbor is at 81)
+19:06.730	ID:4	4.0: rdipro send to ipolite
+19:06.892	ID:15	sent
+19:06.943	ID:14	dropped
+19:06.967	ID:20	recv 'Hej', from 15.0 (origin 10.0) in 1 hops (seq 0) 
+19:06.976	ID:20	20.0: rdipro rebroadcasting 10.0/0 (3.0/0) hops 1 (won with 26 vs 80) (my furthest neighbor is at 81)
+19:06.979	ID:20	20.0: rdipro send to ipolite
+19:07.229	ID:8	sent
+19:07.253	ID:13	recv 'Hej', from 8.0 (origin 10.0) in 2 hops (seq 0) 
+19:07.262	ID:13	13.0: rdipro rebroadcasting 10.0/0 (5.0/0) hops 2 (won with 3 vs 80) (my furthest neighbor is at 81)
+19:07.265	ID:13	13.0: rdipro send to ipolite
+19:07.269	ID:3	recv 'Hej', from 8.0 (origin 10.0) in 2 hops (seq 0) 
+19:07.272	ID:7	recv 'Hej', from 8.0 (origin 10.0) in 2 hops (seq 0) 
+19:07.278	ID:3	3.0: rdipro rebroadcasting 10.0/0 (5.0/0) hops 2 (won with 71 vs 80) (my furthest neighbor is at 81)
+19:07.280	ID:3	3.0: rdipro send to ipolite
+19:07.281	ID:7	7.0: rdipro rebroadcasting 10.0/0 (5.0/0) hops 2 (won with 71 vs 80) (my furthest neighbor is at 81)
+19:07.283	ID:7	7.0: rdipro send to ipolite
+19:07.317	ID:4	sent
+19:07.391	ID:3	dropped
+19:07.496	ID:20	sent
+19:07.587	ID:25	recv 'Hej', from 20.0 (origin 10.0) in 2 hops (seq 0) 
+19:07.590	ID:25	lost with 96 vs 80
+19:07.590	ID:19	recv 'Hej', from 20.0 (origin 10.0) in 2 hops (seq 0) 
+19:07.599	ID:19	19.0: rdipro rebroadcasting 10.0/0 (5.0/0) hops 2 (won with 15 vs 80) (my furthest neighbor is at 81)
+19:07.601	ID:19	19.0: rdipro send to ipolite
+19:08.103	ID:13	sent
+19:08.196	ID:18	recv 'Hej', from 13.0 (origin 10.0) in 3 hops (seq 0) 
+19:08.205	ID:18	18.0: rdipro rebroadcasting 10.0/0 (5.0/0) hops 3 (won with 79 vs 80) (my furthest neighbor is at 81)
+19:08.208	ID:18	18.0: rdipro send to ipolite
+19:08.215	ID:12	recv 'Hej', from 13.0 (origin 10.0) in 3 hops (seq 0) 
+19:08.224	ID:12	12.0: rdipro rebroadcasting 10.0/0 (5.0/0) hops 3 (won with 78 vs 80) (my furthest neighbor is at 81)
+19:08.226	ID:12	12.0: rdipro send to ipolite
+19:08.246	ID:7	sent
+19:08.258	ID:19	sent
+19:08.280	ID:24	recv 'Hej', from 19.0 (origin 10.0) in 3 hops (seq 0) 
+19:08.289	ID:24	24.0: rdipro rebroadcasting 10.0/0 (3.0/0) hops 3 (won with 27 vs 80) (my furthest neighbor is at 81)
+19:08.291	ID:24	24.0: rdipro send to ipolite
+19:08.358	ID:2	recv 'Hej', from 7.0 (origin 10.0) in 3 hops (seq 0) 
+19:08.367	ID:2	2.0: rdipro rebroadcasting 10.0/0 (5.0/0) hops 3 (won with 15 vs 80) (my furthest neighbor is at 81)
+19:08.369	ID:2	2.0: rdipro send to ipolite
+19:08.371	ID:6	recv 'Hej', from 7.0 (origin 10.0) in 3 hops (seq 0) 
+19:08.374	ID:6	lost with 83 vs 80
+19:08.733	ID:18	sent
+19:08.805	ID:17	recv 'Hej', from 18.0 (origin 10.0) in 4 hops (seq 0) 
+19:08.814	ID:17	17.0: rdipro rebroadcasting 10.0/0 (3.0/0) hops 4 (won with 15 vs 80) (my furthest neighbor is at 81)
+19:08.816	ID:23	recv 'Hej', from 18.0 (origin 10.0) in 4 hops (seq 0) 
+19:08.817	ID:17	17.0: rdipro send to ipolite
+19:08.825	ID:23	23.0: rdipro rebroadcasting 10.0/0 (3.0/0) hops 4 (won with 27 vs 80) (my furthest neighbor is at 81)
+19:08.827	ID:23	23.0: rdipro send to ipolite
+19:08.879	ID:24	sent
+19:08.937	ID:23	dropped
+19:08.965	ID:25	recv 'Hej', from 24.0 (origin 10.0) in 4 hops (seq 0) 
+19:08.973	ID:25	25.0: rdipro rebroadcasting 10.0/0 (3.0/0) hops 4 (won with 27 vs 80) (my furthest neighbor is at 81)
+19:08.976	ID:25	25.0: rdipro send to ipolite
+19:09.025	ID:2	sent
+19:09.127	ID:1	recv 'Hej', from 2.0 (origin 10.0) in 4 hops (seq 0) 
+19:09.130	ID:1	lost with 96 vs 80
+19:09.157	ID:12	sent
+19:09.175	ID:17	dropped
+19:09.184	ID:11	recv 'Hej', from 12.0 (origin 10.0) in 4 hops (seq 0) 
+19:09.193	ID:11	11.0: rdipro rebroadcasting 10.0/0 (3.0/0) hops 4 (won with 15 vs 80) (my furthest neighbor is at 81)
+19:09.195	ID:11	11.0: rdipro send to ipolite
+19:09.569	ID:25	sent
+19:09.847	ID:11	sent
+19:09.871	ID:6	recv 'Hej', from 11.0 (origin 10.0) in 5 hops (seq 0) 
+19:09.880	ID:6	6.0: rdipro rebroadcasting 10.0/0 (5.0/0) hops 5 (won with 46 vs 80) (my furthest neighbor is at 81)
+19:09.882	ID:6	6.0: rdipro send to ipolite
+19:09.970	ID:16	recv 'Hej', from 11.0 (origin 10.0) in 5 hops (seq 0) 
+19:09.973	ID:16	lost with 96 vs 80
+19:10.462	ID:6	sent
+19:10.502	ID:1	recv 'Hej', from 6.0 (origin 10.0) in 6 hops (seq 0) 
+19:10.511	ID:1	1.0: rdipro rebroadcasting 10.0/0 (5.0/0) hops 6 (won with 27 vs 80) (my furthest neighbor is at 81)
+19:10.513	ID:1	1.0: rdipro send to ipolite
+19:11.101	ID:1	sent

@@ -1,0 +1,598 @@
+00:00.865	ID:69	Rime started with address 69.0
+00:00.874	ID:69	MAC 45:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 69.
+00:00.879	ID:39	Rime started with address 39.0
+00:00.879	ID:69	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.880	ID:34	Rime started with address 34.0
+00:00.880	ID:69	Starting ''
+00:00.887	ID:39	MAC 27:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 39.
+00:00.888	ID:24	Rime started with address 24.0
+00:00.888	ID:34	MAC 22:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 34.
+00:00.893	ID:39	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.893	ID:34	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.894	ID:39	Starting ''
+00:00.894	ID:34	Starting ''
+00:00.895	ID:70	Rime started with address 70.0
+00:00.896	ID:24	MAC 18:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 24.
+00:00.901	ID:24	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.902	ID:24	Starting ''
+00:00.903	ID:70	MAC 46:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 70.
+00:00.909	ID:70	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.910	ID:70	Starting ''
+00:00.925	ID:8	Rime started with address 8.0
+00:00.932	ID:67	Rime started with address 67.0
+00:00.933	ID:8	MAC 08:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 8.
+00:00.939	ID:8	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.940	ID:8	Starting ''
+00:00.940	ID:67	MAC 43:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 67.
+00:00.946	ID:67	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.947	ID:67	Starting ''
+00:00.959	ID:48	Rime started with address 48.0
+00:00.964	ID:60	Rime started with address 60.0
+00:00.967	ID:48	MAC 30:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 48.
+00:00.973	ID:48	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.973	ID:60	MAC 3c:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 60.
+00:00.974	ID:48	Starting ''
+00:00.977	ID:50	Rime started with address 50.0
+00:00.978	ID:60	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.979	ID:60	Starting ''
+00:00.985	ID:50	MAC 32:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 50.
+00:00.991	ID:50	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.992	ID:50	Starting ''
+00:00.992	ID:55	Rime started with address 55.0
+00:00.994	ID:28	Rime started with address 28.0
+00:01.001	ID:55	MAC 37:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 55.
+00:01.002	ID:28	MAC 1c:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 28.
+00:01.006	ID:55	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.007	ID:55	Starting ''
+00:01.008	ID:28	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.009	ID:28	Starting ''
+00:01.043	ID:11	Rime started with address 11.0
+00:01.051	ID:11	MAC 0b:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 11.
+00:01.056	ID:31	Rime started with address 31.0
+00:01.057	ID:11	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.058	ID:11	Starting ''
+00:01.064	ID:31	MAC 1f:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 31.
+00:01.066	ID:35	Rime started with address 35.0
+00:01.068	ID:54	Rime started with address 54.0
+00:01.070	ID:44	Rime started with address 44.0
+00:01.070	ID:31	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.070	ID:45	Rime started with address 45.0
+00:01.071	ID:31	Starting ''
+00:01.074	ID:35	MAC 23:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 35.
+00:01.077	ID:54	MAC 36:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 54.
+00:01.078	ID:44	MAC 2c:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 44.
+00:01.079	ID:45	MAC 2d:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 45.
+00:01.080	ID:35	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.081	ID:35	Starting ''
+00:01.082	ID:72	Rime started with address 72.0
+00:01.082	ID:54	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.083	ID:54	Starting ''
+00:01.084	ID:44	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.084	ID:45	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.085	ID:44	Starting ''
+00:01.085	ID:45	Starting ''
+00:01.088	ID:2	Rime started with address 2.0
+00:01.090	ID:72	MAC 48:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 72.
+00:01.095	ID:72	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.096	ID:72	Starting ''
+00:01.097	ID:30	Rime started with address 30.0
+00:01.097	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 2.
+00:01.102	ID:2	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.103	ID:6	Rime started with address 6.0
+00:01.103	ID:2	Starting ''
+00:01.105	ID:30	MAC 1e:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 30.
+00:01.110	ID:30	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.111	ID:6	MAC 06:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 6.
+00:01.111	ID:30	Starting ''
+00:01.117	ID:6	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.118	ID:6	Starting ''
+00:01.126	ID:65	Rime started with address 65.0
+00:01.134	ID:65	MAC 41:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 65.
+00:01.140	ID:65	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.141	ID:65	Starting ''
+00:01.153	ID:68	Rime started with address 68.0
+00:01.161	ID:68	MAC 44:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 68.
+00:01.167	ID:68	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.168	ID:68	Starting ''
+00:01.179	ID:18	Rime started with address 18.0
+00:01.181	ID:63	Rime started with address 63.0
+00:01.187	ID:18	MAC 12:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 18.
+00:01.189	ID:63	MAC 3f:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 63.
+00:01.193	ID:18	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.194	ID:18	Starting ''
+00:01.195	ID:63	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.196	ID:63	Starting ''
+00:01.201	ID:4	Rime started with address 4.0
+00:01.208	ID:33	Rime started with address 33.0
+00:01.209	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 4.
+00:01.214	ID:4	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.215	ID:4	Starting ''
+00:01.216	ID:33	MAC 21:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 33.
+00:01.222	ID:33	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.223	ID:33	Starting ''
+00:01.235	ID:1	Rime started with address 1.0
+00:01.238	ID:27	Rime started with address 27.0
+00:01.242	ID:41	Rime started with address 41.0
+00:01.243	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 1.
+00:01.243	ID:66	Rime started with address 66.0
+00:01.246	ID:27	MAC 1b:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 27.
+00:01.247	ID:64	Rime started with address 64.0
+00:01.248	ID:1	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.249	ID:1	Starting ''
+00:01.250	ID:41	MAC 29:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 41.
+00:01.252	ID:66	MAC 42:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 66.
+00:01.252	ID:27	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.253	ID:27	Starting ''
+00:01.254	ID:7	Rime started with address 7.0
+00:01.255	ID:64	MAC 40:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 64.
+00:01.256	ID:41	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.256	ID:41	Starting ''
+00:01.257	ID:66	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.258	ID:66	Starting ''
+00:01.261	ID:64	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.261	ID:64	Starting ''
+00:01.262	ID:7	MAC 07:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 7.
+00:01.264	ID:47	Rime started with address 47.0
+00:01.265	ID:40	Rime started with address 40.0
+00:01.267	ID:53	Rime started with address 53.0
+00:01.268	ID:7	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.269	ID:7	Starting ''
+00:01.272	ID:47	MAC 2f:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 47.
+00:01.273	ID:40	MAC 28:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 40.
+00:01.275	ID:53	MAC 35:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 53.
+00:01.278	ID:47	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.279	ID:40	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.279	ID:47	Starting ''
+00:01.280	ID:40	Starting ''
+00:01.281	ID:53	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.282	ID:53	Starting ''
+00:01.298	ID:61	Rime started with address 61.0
+00:01.303	ID:14	Rime started with address 14.0
+00:01.306	ID:61	MAC 3d:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 61.
+00:01.311	ID:14	MAC 0e:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 14.
+00:01.311	ID:61	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.312	ID:61	Starting ''
+00:01.315	ID:15	Rime started with address 15.0
+00:01.316	ID:14	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.317	ID:14	Starting ''
+00:01.318	ID:46	Rime started with address 46.0
+00:01.320	ID:25	Rime started with address 25.0
+00:01.323	ID:15	MAC 0f:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 15.
+00:01.325	ID:20	Rime started with address 20.0
+00:01.325	ID:16	Rime started with address 16.0
+00:01.326	ID:37	Rime started with address 37.0
+00:01.326	ID:46	MAC 2e:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 46.
+00:01.328	ID:25	MAC 19:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 25.
+00:01.329	ID:15	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.330	ID:15	Starting ''
+00:01.330	ID:62	Rime started with address 62.0
+00:01.331	ID:46	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.332	ID:46	Starting ''
+00:01.333	ID:20	MAC 14:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 20.
+00:01.334	ID:16	MAC 10:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 16.
+00:01.334	ID:25	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.334	ID:37	MAC 25:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 37.
+00:01.335	ID:25	Starting ''
+00:01.335	ID:58	Rime started with address 58.0
+00:01.339	ID:62	MAC 3e:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 62.
+00:01.339	ID:20	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.339	ID:16	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.340	ID:37	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.340	ID:20	Starting ''
+00:01.340	ID:16	Starting ''
+00:01.341	ID:37	Starting ''
+00:01.344	ID:58	MAC 3a:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 58.
+00:01.344	ID:52	Rime started with address 52.0
+00:01.344	ID:62	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.345	ID:62	Starting ''
+00:01.349	ID:58	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.350	ID:58	Starting ''
+00:01.352	ID:52	MAC 34:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 52.
+00:01.358	ID:52	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.359	ID:52	Starting ''
+00:01.397	ID:74	Rime started with address 74.0
+00:01.405	ID:74	MAC 4a:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 74.
+00:01.409	ID:10	Rime started with address 10.0
+00:01.411	ID:74	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.412	ID:74	Starting ''
+00:01.417	ID:10	MAC 0a:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 10.
+00:01.423	ID:10	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.424	ID:10	Starting ''
+00:01.437	ID:71	Rime started with address 71.0
+00:01.445	ID:71	MAC 47:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 71.
+00:01.447	ID:12	Rime started with address 12.0
+00:01.451	ID:71	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.451	ID:71	Starting ''
+00:01.455	ID:12	MAC 0c:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 12.
+00:01.461	ID:12	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.462	ID:12	Starting ''
+00:01.478	ID:49	Rime started with address 49.0
+00:01.484	ID:75	Rime started with address 75.0
+00:01.486	ID:49	MAC 31:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 49.
+00:01.489	ID:29	Rime started with address 29.0
+00:01.492	ID:49	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.492	ID:75	MAC 4b:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 75.
+00:01.493	ID:49	Starting ''
+00:01.498	ID:29	MAC 1d:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 29.
+00:01.498	ID:75	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.499	ID:75	Starting ''
+00:01.503	ID:29	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.504	ID:29	Starting ''
+00:01.516	ID:22	Rime started with address 22.0
+00:01.524	ID:22	MAC 16:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 22.
+00:01.529	ID:22	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.530	ID:22	Starting ''
+00:01.538	ID:51	Rime started with address 51.0
+00:01.542	ID:43	Rime started with address 43.0
+00:01.543	ID:26	Rime started with address 26.0
+00:01.546	ID:51	MAC 33:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 51.
+00:01.547	ID:56	Rime started with address 56.0
+00:01.550	ID:43	MAC 2b:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 43.
+00:01.551	ID:26	MAC 1a:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 26.
+00:01.551	ID:51	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.552	ID:51	Starting ''
+00:01.555	ID:43	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.556	ID:56	MAC 38:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 56.
+00:01.556	ID:43	Starting ''
+00:01.557	ID:26	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.558	ID:26	Starting ''
+00:01.561	ID:9	Rime started with address 9.0
+00:01.561	ID:56	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.562	ID:56	Starting ''
+00:01.567	ID:5	Rime started with address 5.0
+00:01.569	ID:9	MAC 09:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 9.
+00:01.572	ID:42	Rime started with address 42.0
+00:01.572	ID:19	Rime started with address 19.0
+00:01.575	ID:9	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.575	ID:9	Starting ''
+00:01.576	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 5.
+00:01.580	ID:42	MAC 2a:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 42.
+00:01.580	ID:19	MAC 13:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 19.
+00:01.581	ID:5	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.582	ID:5	Starting ''
+00:01.585	ID:42	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.585	ID:19	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.586	ID:42	Starting ''
+00:01.586	ID:19	Starting ''
+00:01.640	ID:38	Rime started with address 38.0
+00:01.649	ID:38	MAC 26:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 38.
+00:01.654	ID:38	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.655	ID:38	Starting ''
+00:01.662	ID:17	Rime started with address 17.0
+00:01.670	ID:17	MAC 11:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 17.
+00:01.675	ID:17	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.676	ID:17	Starting ''
+00:01.683	ID:73	Rime started with address 73.0
+00:01.691	ID:73	MAC 49:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 73.
+00:01.697	ID:73	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.698	ID:73	Starting ''
+00:01.734	ID:36	Rime started with address 36.0
+00:01.736	ID:13	Rime started with address 13.0
+00:01.738	ID:59	Rime started with address 59.0
+00:01.742	ID:36	MAC 24:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 36.
+00:01.745	ID:13	MAC 0d:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 13.
+00:01.746	ID:59	MAC 3b:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 59.
+00:01.748	ID:36	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.749	ID:36	Starting ''
+00:01.750	ID:13	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.751	ID:13	Starting ''
+00:01.752	ID:3	Rime started with address 3.0
+00:01.752	ID:59	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.753	ID:59	Starting ''
+00:01.759	ID:21	Rime started with address 21.0
+00:01.760	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 3.
+00:01.765	ID:3	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.766	ID:3	Starting ''
+00:01.767	ID:21	MAC 15:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 21.
+00:01.773	ID:21	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.774	ID:21	Starting ''
+00:01.798	ID:23	Rime started with address 23.0
+00:01.806	ID:23	MAC 17:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 23.
+00:01.812	ID:23	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.812	ID:23	Starting ''
+00:01.828	ID:57	Rime started with address 57.0
+00:01.830	ID:32	Rime started with address 32.0
+00:01.836	ID:57	MAC 39:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 57.
+00:01.838	ID:32	MAC 20:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 32.
+00:01.842	ID:57	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.843	ID:57	Starting ''
+00:01.844	ID:32	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.845	ID:32	Starting ''
+00:47.314	ID:1	1.0: netflood sending 'Hej', with seq no. 0
+00:47.314	ID:1	sent
+00:47.355	ID:2	recv 'Hej', from 1.0 (origin 1.0) in 0 hops (seq 0) 
+00:47.359	ID:2	2.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 0
+00:47.361	ID:2	2.0: netflood send to ipolite
+00:47.427	ID:10	recv 'Hej', from 1.0 (origin 1.0) in 0 hops (seq 0) 
+00:47.431	ID:10	10.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 0
+00:47.433	ID:10	10.0: netflood send to ipolite
+00:47.454	ID:9	recv 'Hej', from 1.0 (origin 1.0) in 0 hops (seq 0) 
+00:47.458	ID:9	9.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 0
+00:47.460	ID:9	9.0: netflood send to ipolite
+00:48.157	ID:2	sent
+00:48.173	ID:10	dropped
+00:48.184	ID:11	recv 'Hej', from 2.0 (origin 1.0) in 1 hops (seq 0) 
+00:48.189	ID:11	11.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 1
+00:48.191	ID:11	11.0: netflood send to ipolite
+00:48.200	ID:9	dropped
+00:48.270	ID:3	recv 'Hej', from 2.0 (origin 1.0) in 1 hops (seq 0) 
+00:48.274	ID:3	3.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 1
+00:48.276	ID:3	3.0: netflood send to ipolite
+00:48.987	ID:11	sent
+00:49.016	ID:3	dropped
+00:49.073	ID:18	recv 'Hej', from 11.0 (origin 1.0) in 2 hops (seq 0) 
+00:49.077	ID:18	18.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 2
+00:49.079	ID:18	18.0: netflood send to ipolite
+00:49.089	ID:19	recv 'Hej', from 11.0 (origin 1.0) in 2 hops (seq 0) 
+00:49.089	ID:12	recv 'Hej', from 11.0 (origin 1.0) in 2 hops (seq 0) 
+00:49.091	ID:20	recv 'Hej', from 11.0 (origin 1.0) in 2 hops (seq 0) 
+00:49.093	ID:19	19.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 2
+00:49.093	ID:12	12.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 2
+00:49.094	ID:4	recv 'Hej', from 11.0 (origin 1.0) in 2 hops (seq 0) 
+00:49.095	ID:19	19.0: netflood send to ipolite
+00:49.095	ID:12	12.0: netflood send to ipolite
+00:49.095	ID:20	20.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 2
+00:49.098	ID:20	20.0: netflood send to ipolite
+00:49.098	ID:4	4.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 2
+00:49.100	ID:4	4.0: netflood send to ipolite
+00:49.873	ID:18	sent
+00:49.890	ID:19	sent
+00:49.891	ID:12	sent
+00:49.894	ID:20	sent
+00:49.895	ID:4	sent
+00:50.027	ID:21	recv 'Hej', from 12.0 (origin 1.0) in 3 hops (seq 0) 
+00:50.031	ID:21	21.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 3
+00:50.034	ID:21	21.0: netflood send to ipolite
+00:50.132	ID:27	recv 'Hej', from 19.0 (origin 1.0) in 3 hops (seq 0) 
+00:50.136	ID:27	27.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 3
+00:50.139	ID:27	27.0: netflood send to ipolite
+00:50.273	ID:21	dropped
+00:50.377	ID:27	dropped
+00:50.380	ID:13	recv 'Hej', from 20.0 (origin 1.0) in 3 hops (seq 0) 
+00:50.383	ID:29	recv 'Hej', from 20.0 (origin 1.0) in 3 hops (seq 0) 
+00:50.384	ID:13	13.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 3
+00:50.387	ID:13	13.0: netflood send to ipolite
+00:50.387	ID:29	29.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 3
+00:50.388	ID:28	recv 'Hej', from 20.0 (origin 1.0) in 3 hops (seq 0) 
+00:50.389	ID:29	29.0: netflood send to ipolite
+00:50.392	ID:28	28.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 3
+00:50.394	ID:28	28.0: netflood send to ipolite
+00:51.180	ID:13	sent
+00:51.183	ID:29	sent
+00:51.188	ID:28	sent
+00:51.194	ID:14	recv 'Hej', from 13.0 (origin 1.0) in 4 hops (seq 0) 
+00:51.198	ID:14	14.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 4
+00:51.200	ID:14	14.0: netflood send to ipolite
+00:51.456	ID:35	recv 'Hej', from 28.0 (origin 1.0) in 4 hops (seq 0) 
+00:51.461	ID:35	35.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 4
+00:51.463	ID:35	35.0: netflood send to ipolite
+00:51.470	ID:37	recv 'Hej', from 28.0 (origin 1.0) in 4 hops (seq 0) 
+00:51.474	ID:37	37.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 4
+00:51.476	ID:37	37.0: netflood send to ipolite
+00:51.502	ID:36	recv 'Hej', from 28.0 (origin 1.0) in 4 hops (seq 0) 
+00:51.506	ID:36	36.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 4
+00:51.508	ID:36	36.0: netflood send to ipolite
+00:51.996	ID:14	sent
+00:52.021	ID:7	recv 'Hej', from 14.0 (origin 1.0) in 5 hops (seq 0) 
+00:52.025	ID:7	7.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 5
+00:52.027	ID:7	7.0: netflood send to ipolite
+00:52.034	ID:22	recv 'Hej', from 14.0 (origin 1.0) in 5 hops (seq 0) 
+00:52.038	ID:22	22.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 5
+00:52.041	ID:22	22.0: netflood send to ipolite
+00:52.066	ID:23	recv 'Hej', from 14.0 (origin 1.0) in 5 hops (seq 0) 
+00:52.070	ID:23	23.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 5
+00:52.073	ID:23	23.0: netflood send to ipolite
+00:52.082	ID:15	recv 'Hej', from 14.0 (origin 1.0) in 5 hops (seq 0) 
+00:52.085	ID:5	recv 'Hej', from 14.0 (origin 1.0) in 5 hops (seq 0) 
+00:52.086	ID:15	15.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 5
+00:52.089	ID:15	15.0: netflood send to ipolite
+00:52.089	ID:5	5.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 5
+00:52.091	ID:5	5.0: netflood send to ipolite
+00:52.120	ID:6	recv 'Hej', from 14.0 (origin 1.0) in 5 hops (seq 0) 
+00:52.124	ID:6	6.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 5
+00:52.126	ID:6	6.0: netflood send to ipolite
+00:52.260	ID:35	sent
+00:52.269	ID:37	sent
+00:52.303	ID:36	sent
+00:52.409	ID:38	recv 'Hej', from 37.0 (origin 1.0) in 5 hops (seq 0) 
+00:52.413	ID:38	38.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 5
+00:52.415	ID:38	38.0: netflood send to ipolite
+00:52.561	ID:43	recv 'Hej', from 36.0 (origin 1.0) in 5 hops (seq 0) 
+00:52.565	ID:43	43.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 5
+00:52.567	ID:43	43.0: netflood send to ipolite
+00:52.587	ID:44	recv 'Hej', from 36.0 (origin 1.0) in 5 hops (seq 0) 
+00:52.587	ID:45	recv 'Hej', from 36.0 (origin 1.0) in 5 hops (seq 0) 
+00:52.591	ID:44	44.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 5
+00:52.591	ID:45	45.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 5
+00:52.594	ID:44	44.0: netflood send to ipolite
+00:52.594	ID:45	45.0: netflood send to ipolite
+00:52.823	ID:7	sent
+00:52.834	ID:22	sent
+00:52.842	ID:16	recv 'Hej', from 7.0 (origin 1.0) in 6 hops (seq 0) 
+00:52.846	ID:16	16.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 6
+00:52.849	ID:16	16.0: netflood send to ipolite
+00:52.866	ID:23	sent
+00:52.884	ID:15	sent
+00:52.886	ID:5	sent
+00:52.922	ID:6	sent
+00:53.114	ID:30	recv 'Hej', from 23.0 (origin 1.0) in 6 hops (seq 0) 
+00:53.118	ID:30	30.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 6
+00:53.120	ID:30	30.0: netflood send to ipolite
+00:53.156	ID:24	recv 'Hej', from 23.0 (origin 1.0) in 6 hops (seq 0) 
+00:53.160	ID:24	24.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 6
+00:53.163	ID:24	24.0: netflood send to ipolite
+00:53.209	ID:38	sent
+00:53.282	ID:47	recv 'Hej', from 38.0 (origin 1.0) in 6 hops (seq 0) 
+00:53.286	ID:47	47.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 6
+00:53.288	ID:47	47.0: netflood send to ipolite
+00:53.317	ID:8	recv 'Hej', from 15.0 (origin 1.0) in 6 hops (seq 0) 
+00:53.321	ID:8	8.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 6
+00:53.323	ID:8	8.0: netflood send to ipolite
+00:53.334	ID:45	dropped
+00:53.335	ID:46	recv 'Hej', from 38.0 (origin 1.0) in 6 hops (seq 0) 
+00:53.339	ID:46	46.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 6
+00:53.342	ID:46	46.0: netflood send to ipolite
+00:53.360	ID:43	sent
+00:53.389	ID:44	sent
+00:53.398	ID:34	recv 'Hej', from 43.0 (origin 1.0) in 6 hops (seq 0) 
+00:53.402	ID:34	34.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 6
+00:53.405	ID:34	34.0: netflood send to ipolite
+00:53.430	ID:51	recv 'Hej', from 43.0 (origin 1.0) in 6 hops (seq 0) 
+00:53.434	ID:51	51.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 6
+00:53.437	ID:51	51.0: netflood send to ipolite
+00:53.465	ID:42	recv 'Hej', from 43.0 (origin 1.0) in 6 hops (seq 0) 
+00:53.469	ID:42	42.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 6
+00:53.471	ID:42	42.0: netflood send to ipolite
+00:53.486	ID:52	recv 'Hej', from 43.0 (origin 1.0) in 6 hops (seq 0) 
+00:53.490	ID:52	52.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 6
+00:53.493	ID:52	52.0: netflood send to ipolite
+00:53.494	ID:50	recv 'Hej', from 43.0 (origin 1.0) in 6 hops (seq 0) 
+00:53.498	ID:50	50.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 6
+00:53.501	ID:50	50.0: netflood send to ipolite
+00:53.644	ID:16	sent
+00:53.660	ID:53	recv 'Hej', from 44.0 (origin 1.0) in 6 hops (seq 0) 
+00:53.664	ID:53	53.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 6
+00:53.666	ID:53	53.0: netflood send to ipolite
+00:53.678	ID:51	dropped
+00:53.689	ID:8	dropped
+00:53.731	ID:52	dropped
+00:53.777	ID:24	dropped
+00:53.915	ID:30	sent
+00:53.948	ID:31	recv 'Hej', from 30.0 (origin 1.0) in 7 hops (seq 0) 
+00:53.952	ID:31	31.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+00:53.954	ID:31	31.0: netflood send to ipolite
+00:54.023	ID:39	recv 'Hej', from 30.0 (origin 1.0) in 7 hops (seq 0) 
+00:54.027	ID:39	39.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+00:54.029	ID:39	39.0: netflood send to ipolite
+00:54.083	ID:47	sent
+00:54.102	ID:48	recv 'Hej', from 47.0 (origin 1.0) in 7 hops (seq 0) 
+00:54.106	ID:48	48.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+00:54.109	ID:48	48.0: netflood send to ipolite
+00:54.134	ID:55	recv 'Hej', from 47.0 (origin 1.0) in 7 hops (seq 0) 
+00:54.136	ID:46	sent
+00:54.138	ID:55	55.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+00:54.141	ID:55	55.0: netflood send to ipolite
+00:54.144	ID:39	dropped
+00:54.156	ID:40	recv 'Hej', from 47.0 (origin 1.0) in 7 hops (seq 0) 
+00:54.160	ID:40	40.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+00:54.162	ID:40	40.0: netflood send to ipolite
+00:54.190	ID:56	recv 'Hej', from 47.0 (origin 1.0) in 7 hops (seq 0) 
+00:54.194	ID:56	56.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+00:54.197	ID:56	56.0: netflood send to ipolite
+00:54.198	ID:34	sent
+00:54.209	ID:54	recv 'Hej', from 47.0 (origin 1.0) in 7 hops (seq 0) 
+00:54.211	ID:42	dropped
+00:54.213	ID:54	54.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+00:54.215	ID:54	54.0: netflood send to ipolite
+00:54.226	ID:33	recv 'Hej', from 34.0 (origin 1.0) in 7 hops (seq 0) 
+00:54.230	ID:33	33.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+00:54.232	ID:33	33.0: netflood send to ipolite
+00:54.260	ID:41	recv 'Hej', from 34.0 (origin 1.0) in 7 hops (seq 0) 
+00:54.264	ID:41	41.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+00:54.267	ID:41	41.0: netflood send to ipolite
+00:54.296	ID:50	sent
+00:54.347	ID:57	recv 'Hej', from 50.0 (origin 1.0) in 7 hops (seq 0) 
+00:54.351	ID:57	57.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+00:54.352	ID:58	recv 'Hej', from 50.0 (origin 1.0) in 7 hops (seq 0) 
+00:54.353	ID:57	57.0: netflood send to ipolite
+00:54.356	ID:58	58.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+00:54.359	ID:58	58.0: netflood send to ipolite
+00:54.371	ID:49	recv 'Hej', from 50.0 (origin 1.0) in 7 hops (seq 0) 
+00:54.375	ID:49	49.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+00:54.377	ID:49	49.0: netflood send to ipolite
+00:54.381	ID:41	dropped
+00:54.383	ID:55	dropped
+00:54.457	ID:54	dropped
+00:54.461	ID:53	sent
+00:54.724	ID:62	recv 'Hej', from 53.0 (origin 1.0) in 7 hops (seq 0) 
+00:54.728	ID:62	62.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+00:54.730	ID:62	62.0: netflood send to ipolite
+00:54.732	ID:60	recv 'Hej', from 53.0 (origin 1.0) in 7 hops (seq 0) 
+00:54.736	ID:60	60.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+00:54.738	ID:60	60.0: netflood send to ipolite
+00:54.750	ID:31	sent
+00:54.815	ID:61	recv 'Hej', from 53.0 (origin 1.0) in 7 hops (seq 0) 
+00:54.819	ID:61	61.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 7
+00:54.821	ID:61	61.0: netflood send to ipolite
+00:54.849	ID:32	recv 'Hej', from 31.0 (origin 1.0) in 8 hops (seq 0) 
+00:54.853	ID:32	32.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 8
+00:54.856	ID:32	32.0: netflood send to ipolite
+00:54.903	ID:48	sent
+00:54.934	ID:56	dropped
+00:54.959	ID:40	sent
+00:55.027	ID:33	sent
+00:55.062	ID:26	recv 'Hej', from 33.0 (origin 1.0) in 8 hops (seq 0) 
+00:55.066	ID:26	26.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 8
+00:55.068	ID:26	26.0: netflood send to ipolite
+00:55.089	ID:25	recv 'Hej', from 33.0 (origin 1.0) in 8 hops (seq 0) 
+00:55.093	ID:25	25.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 8
+00:55.095	ID:25	25.0: netflood send to ipolite
+00:55.147	ID:57	sent
+00:55.154	ID:58	sent
+00:55.172	ID:49	sent
+00:55.218	ID:32	dropped
+00:55.262	ID:66	recv 'Hej', from 57.0 (origin 1.0) in 8 hops (seq 0) 
+00:55.266	ID:66	66.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 8
+00:55.268	ID:65	recv 'Hej', from 57.0 (origin 1.0) in 8 hops (seq 0) 
+00:55.269	ID:66	66.0: netflood send to ipolite
+00:55.272	ID:65	65.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 8
+00:55.274	ID:65	65.0: netflood send to ipolite
+00:55.449	ID:67	recv 'Hej', from 58.0 (origin 1.0) in 8 hops (seq 0) 
+00:55.453	ID:67	67.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 8
+00:55.456	ID:67	67.0: netflood send to ipolite
+00:55.505	ID:59	recv 'Hej', from 58.0 (origin 1.0) in 8 hops (seq 0) 
+00:55.507	ID:66	dropped
+00:55.509	ID:59	59.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 8
+00:55.512	ID:59	59.0: netflood send to ipolite
+00:55.515	ID:65	dropped
+00:55.524	ID:62	sent
+00:55.533	ID:60	sent
+00:55.616	ID:61	sent
+00:55.862	ID:26	sent
+00:55.882	ID:69	recv 'Hej', from 61.0 (origin 1.0) in 8 hops (seq 0) 
+00:55.886	ID:69	69.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 8
+00:55.889	ID:69	69.0: netflood send to ipolite
+00:55.889	ID:25	sent
+00:55.914	ID:70	recv 'Hej', from 61.0 (origin 1.0) in 8 hops (seq 0) 
+00:55.918	ID:70	70.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 8
+00:55.921	ID:70	70.0: netflood send to ipolite
+00:55.922	ID:68	recv 'Hej', from 61.0 (origin 1.0) in 8 hops (seq 0) 
+00:55.926	ID:68	68.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 8
+00:55.928	ID:68	68.0: netflood send to ipolite
+00:55.929	ID:17	recv 'Hej', from 26.0 (origin 1.0) in 9 hops (seq 0) 
+00:55.933	ID:17	17.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 9
+00:55.935	ID:17	17.0: netflood send to ipolite
+00:56.175	ID:17	dropped
+00:56.251	ID:67	sent
+00:56.289	ID:74	recv 'Hej', from 67.0 (origin 1.0) in 9 hops (seq 0) 
+00:56.293	ID:74	74.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 9
+00:56.293	ID:68	dropped
+00:56.295	ID:74	74.0: netflood send to ipolite
+00:56.307	ID:59	sent
+00:56.377	ID:75	recv 'Hej', from 67.0 (origin 1.0) in 9 hops (seq 0) 
+00:56.381	ID:75	75.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 9
+00:56.383	ID:75	75.0: netflood send to ipolite
+00:56.684	ID:69	sent
+00:56.714	ID:70	sent
+00:56.956	ID:71	recv 'Hej', from 70.0 (origin 1.0) in 9 hops (seq 0) 
+00:56.960	ID:71	71.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 9
+00:56.962	ID:71	71.0: netflood send to ipolite
+00:57.073	ID:63	recv 'Hej', from 70.0 (origin 1.0) in 9 hops (seq 0) 
+00:57.077	ID:63	63.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 9
+00:57.079	ID:63	63.0: netflood send to ipolite
+00:57.091	ID:74	sent
+00:57.122	ID:75	dropped
+00:57.201	ID:73	recv 'Hej', from 74.0 (origin 1.0) in 10 hops (seq 0) 
+00:57.205	ID:73	73.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 10
+00:57.207	ID:73	73.0: netflood send to ipolite
+00:57.755	ID:71	sent
+00:57.819	ID:63	dropped
+00:57.850	ID:72	recv 'Hej', from 71.0 (origin 1.0) in 10 hops (seq 0) 
+00:57.854	ID:72	72.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 10
+00:57.856	ID:72	72.0: netflood send to ipolite
+00:57.890	ID:64	recv 'Hej', from 71.0 (origin 1.0) in 10 hops (seq 0) 
+00:57.894	ID:64	64.0: netflood rebroadcasting 1.0/0 (0.0/0) hops 10
+00:57.896	ID:64	64.0: netflood send to ipolite
+00:58.002	ID:73	sent
+00:58.650	ID:72	sent
+00:58.690	ID:64	sent

@@ -1,0 +1,321 @@
+00:00.888	ID:24	Rime started with address 24.0
+00:00.897	ID:24	MAC 18:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 24.
+00:00.902	ID:24	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.906	ID:24	Starting 'RD-PRO process' 'Broadcast process'
+00:00.926	ID:8	Rime started with address 8.0
+00:00.934	ID:8	MAC 08:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 8.
+00:00.940	ID:8	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.943	ID:8	Starting 'RD-PRO process' 'Broadcast process'
+00:01.044	ID:11	Rime started with address 11.0
+00:01.052	ID:11	MAC 0b:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 11.
+00:01.058	ID:11	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.061	ID:11	Starting 'RD-PRO process' 'Broadcast process'
+00:01.089	ID:2	Rime started with address 2.0
+00:01.097	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 2.
+00:01.103	ID:2	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.104	ID:6	Rime started with address 6.0
+00:01.106	ID:2	Starting 'RD-PRO process' 'Broadcast process'
+00:01.112	ID:6	MAC 06:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 6.
+00:01.118	ID:6	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.121	ID:6	Starting 'RD-PRO process' 'Broadcast process'
+00:01.180	ID:18	Rime started with address 18.0
+00:01.188	ID:18	MAC 12:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 18.
+00:01.194	ID:18	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.197	ID:18	Starting 'RD-PRO process' 'Broadcast process'
+00:01.202	ID:4	Rime started with address 4.0
+00:01.210	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 4.
+00:01.215	ID:4	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.219	ID:4	Starting 'RD-PRO process' 'Broadcast process'
+00:01.235	ID:1	Rime started with address 1.0
+00:01.244	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 1.
+00:01.249	ID:1	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.252	ID:1	Starting 'RD-PRO process' 'Broadcast process'
+00:01.255	ID:7	Rime started with address 7.0
+00:01.263	ID:7	MAC 07:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 7.
+00:01.269	ID:7	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.272	ID:7	Starting 'RD-PRO process' 'Broadcast process'
+00:01.303	ID:14	Rime started with address 14.0
+00:01.312	ID:14	MAC 0e:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 14.
+00:01.316	ID:15	Rime started with address 15.0
+00:01.317	ID:14	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.321	ID:14	Starting 'RD-PRO process' 'Broadcast process'
+00:01.321	ID:25	Rime started with address 25.0
+00:01.324	ID:15	MAC 0f:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 15.
+00:01.326	ID:20	Rime started with address 20.0
+00:01.326	ID:16	Rime started with address 16.0
+00:01.329	ID:25	MAC 19:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 25.
+00:01.330	ID:15	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.333	ID:15	Starting 'RD-PRO process' 'Broadcast process'
+00:01.334	ID:20	MAC 14:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 20.
+00:01.335	ID:16	MAC 10:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 16.
+00:01.335	ID:25	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.338	ID:25	Starting 'RD-PRO process' 'Broadcast process'
+00:01.340	ID:20	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.340	ID:16	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.343	ID:20	Starting 'RD-PRO process' 'Broadcast process'
+00:01.343	ID:16	Starting 'RD-PRO process' 'Broadcast process'
+00:01.410	ID:10	Rime started with address 10.0
+00:01.418	ID:10	MAC 0a:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 10.
+00:01.424	ID:10	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.427	ID:10	Starting 'RD-PRO process' 'Broadcast process'
+00:01.448	ID:12	Rime started with address 12.0
+00:01.456	ID:12	MAC 0c:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 12.
+00:01.461	ID:12	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.465	ID:12	Starting 'RD-PRO process' 'Broadcast process'
+00:01.516	ID:22	Rime started with address 22.0
+00:01.525	ID:22	MAC 16:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 22.
+00:01.530	ID:22	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.534	ID:22	Starting 'RD-PRO process' 'Broadcast process'
+00:01.562	ID:9	Rime started with address 9.0
+00:01.568	ID:5	Rime started with address 5.0
+00:01.570	ID:9	MAC 09:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 9.
+00:01.572	ID:19	Rime started with address 19.0
+00:01.575	ID:9	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.576	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 5.
+00:01.579	ID:9	Starting 'RD-PRO process' 'Broadcast process'
+00:01.581	ID:19	MAC 13:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 19.
+00:01.582	ID:5	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.585	ID:5	Starting 'RD-PRO process' 'Broadcast process'
+00:01.586	ID:19	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.590	ID:19	Starting 'RD-PRO process' 'Broadcast process'
+00:01.662	ID:17	Rime started with address 17.0
+00:01.671	ID:17	MAC 11:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 17.
+00:01.676	ID:17	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.680	ID:17	Starting 'RD-PRO process' 'Broadcast process'
+00:01.737	ID:13	Rime started with address 13.0
+00:01.745	ID:13	MAC 0d:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 13.
+00:01.751	ID:13	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.753	ID:3	Rime started with address 3.0
+00:01.754	ID:13	Starting 'RD-PRO process' 'Broadcast process'
+00:01.760	ID:21	Rime started with address 21.0
+00:01.761	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 3.
+00:01.766	ID:3	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.768	ID:21	MAC 15:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 21.
+00:01.770	ID:3	Starting 'RD-PRO process' 'Broadcast process'
+00:01.774	ID:21	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.777	ID:21	Starting 'RD-PRO process' 'Broadcast process'
+00:01.799	ID:23	Rime started with address 23.0
+00:01.807	ID:23	MAC 17:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 23.
+00:01.812	ID:23	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.816	ID:23	Starting 'RD-PRO process' 'Broadcast process'
+00:30.219	ID:19	broadcast message received from 24.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.221	ID:19	[tabla de vecinos] 24.0
+00:30.273	ID:3	broadcast message received from 8.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.275	ID:3	[tabla de vecinos] 8.0
+00:30.276	ID:7	broadcast message received from 8.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.277	ID:7	[tabla de vecinos] 8.0
+00:30.321	ID:23	broadcast message received from 24.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.323	ID:23	[tabla de vecinos] 24.0
+00:30.332	ID:9	broadcast message received from 8.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.333	ID:9	[tabla de vecinos] 8.0
+00:30.342	ID:25	broadcast message received from 24.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.344	ID:25	[tabla de vecinos] 24.0
+00:30.474	ID:16	broadcast message received from 11.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.475	ID:16	[tabla de vecinos] 11.0
+00:30.506	ID:1	broadcast message received from 2.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.507	ID:1	[tabla de vecinos] 2.0
+00:30.524	ID:3	broadcast message received from 2.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.526	ID:3	[tabla de vecinos] 8.0
+00:30.528	ID:3	[tabla de vecinos] 2.0
+00:30.559	ID:17	broadcast message received from 18.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.561	ID:17	[tabla de vecinos] 18.0
+00:30.570	ID:23	broadcast message received from 18.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.571	ID:23	[tabla de vecinos] 24.0
+00:30.573	ID:23	[tabla de vecinos] 18.0
+00:30.589	ID:5	broadcast message received from 4.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.590	ID:5	[tabla de vecinos] 4.0
+00:30.594	ID:19	broadcast message received from 18.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.595	ID:19	[tabla de vecinos] 24.0
+00:30.597	ID:19	[tabla de vecinos] 18.0
+00:30.657	ID:21	broadcast message received from 16.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.659	ID:21	[tabla de vecinos] 16.0
+00:30.712	ID:9	broadcast message received from 14.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.713	ID:9	[tabla de vecinos] 8.0
+00:30.715	ID:9	[tabla de vecinos] 14.0
+00:30.758	ID:1	broadcast message received from 6.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.759	ID:1	[tabla de vecinos] 2.0
+00:30.761	ID:1	[tabla de vecinos] 6.0
+00:30.840	ID:5	broadcast message received from 10.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.841	ID:5	[tabla de vecinos] 4.0
+00:30.842	ID:25	broadcast message received from 20.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.843	ID:5	[tabla de vecinos] 10.0
+00:30.844	ID:25	[tabla de vecinos] 24.0
+00:30.845	ID:25	[tabla de vecinos] 20.0
+00:30.906	ID:21	broadcast message received from 22.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:30.908	ID:21	[tabla de vecinos] 16.0
+00:30.910	ID:21	[tabla de vecinos] 22.0
+00:31.039	ID:22	broadcast message received from 17.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:31.041	ID:22	[tabla de vecinos] 17.0
+00:31.057	ID:10	broadcast message received from 15.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:31.059	ID:10	[tabla de vecinos] 15.0
+00:31.198	ID:8	broadcast message received from 3.0 with seqno 0, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:31.200	ID:8	[tabla de vecinos] 3.0
+00:55.444	ID:23	broadcast message received from 24.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.446	ID:23	[tabla de vecinos] 24.0
+00:55.448	ID:23	[tabla de vecinos] 18.0
+00:55.458	ID:9	broadcast message received from 8.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.460	ID:9	[tabla de vecinos] 8.0
+00:55.462	ID:9	[tabla de vecinos] 14.0
+00:55.466	ID:25	broadcast message received from 24.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.468	ID:25	[tabla de vecinos] 24.0
+00:55.469	ID:25	[tabla de vecinos] 20.0
+00:55.509	ID:13	broadcast message received from 8.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.511	ID:13	[tabla de vecinos] 8.0
+00:55.525	ID:3	broadcast message received from 8.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.526	ID:3	[tabla de vecinos] 8.0
+00:55.528	ID:3	[tabla de vecinos] 2.0
+00:55.597	ID:16	broadcast message received from 11.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.599	ID:16	[tabla de vecinos] 11.0
+00:55.648	ID:3	broadcast message received from 2.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.650	ID:3	[tabla de vecinos] 8.0
+00:55.652	ID:3	[tabla de vecinos] 2.0
+00:55.683	ID:17	broadcast message received from 18.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.684	ID:17	[tabla de vecinos] 18.0
+00:55.696	ID:23	broadcast message received from 18.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.698	ID:23	[tabla de vecinos] 24.0
+00:55.700	ID:23	[tabla de vecinos] 18.0
+00:55.715	ID:5	broadcast message received from 4.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.717	ID:5	[tabla de vecinos] 4.0
+00:55.719	ID:5	[tabla de vecinos] 10.0
+00:55.720	ID:19	broadcast message received from 18.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.722	ID:19	[tabla de vecinos] 24.0
+00:55.724	ID:19	[tabla de vecinos] 18.0
+00:55.906	ID:21	broadcast message received from 16.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.908	ID:21	[tabla de vecinos] 16.0
+00:55.910	ID:21	[tabla de vecinos] 22.0
+00:55.940	ID:11	broadcast message received from 12.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.942	ID:11	[tabla de vecinos] 12.0
+00:55.963	ID:5	broadcast message received from 10.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.964	ID:15	broadcast message received from 10.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:55.965	ID:5	[tabla de vecinos] 4.0
+00:55.965	ID:15	[tabla de vecinos] 10.0
+00:55.967	ID:5	[tabla de vecinos] 10.0
+00:56.131	ID:1	broadcast message received from 6.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.133	ID:1	[tabla de vecinos] 2.0
+00:56.135	ID:1	[tabla de vecinos] 6.0
+00:56.212	ID:15	broadcast message received from 20.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.214	ID:15	[tabla de vecinos] 10.0
+00:56.216	ID:15	[tabla de vecinos] 20.0
+00:56.217	ID:25	broadcast message received from 20.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.219	ID:12	broadcast message received from 17.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.219	ID:25	[tabla de vecinos] 24.0
+00:56.221	ID:12	[tabla de vecinos] 17.0
+00:56.221	ID:25	[tabla de vecinos] 20.0
+00:56.349	ID:4	broadcast message received from 3.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.351	ID:4	[tabla de vecinos] 3.0
+00:56.360	ID:2	broadcast message received from 3.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.361	ID:2	[tabla de vecinos] 3.0
+00:56.556	ID:10	broadcast message received from 15.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.558	ID:10	[tabla de vecinos] 15.0
+00:56.573	ID:14	broadcast message received from 15.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.574	ID:14	[tabla de vecinos] 15.0
+00:56.597	ID:20	broadcast message received from 15.0 with seqno 1, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+00:56.598	ID:20	[tabla de vecinos] 15.0
+01:20.836	ID:15	broadcast message received from 20.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:20.838	ID:15	[tabla de vecinos] 10.0
+01:20.840	ID:15	[tabla de vecinos] 20.0
+01:20.841	ID:25	broadcast message received from 20.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:20.843	ID:25	[tabla de vecinos] 24.0
+01:20.844	ID:19	broadcast message received from 20.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:20.845	ID:25	[tabla de vecinos] 20.0
+01:20.846	ID:19	[tabla de vecinos] 24.0
+01:20.848	ID:19	[tabla de vecinos] 18.0
+01:20.850	ID:19	[tabla de vecinos] 20.0
+01:23.631	ID:1	broadcast message received from 6.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:23.633	ID:1	[tabla de vecinos] 2.0
+01:23.634	ID:1	[tabla de vecinos] 6.0
+01:23.652	ID:7	broadcast message received from 6.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:23.654	ID:7	[tabla de vecinos] 8.0
+01:23.656	ID:7	[tabla de vecinos] 6.0
+01:23.690	ID:11	broadcast message received from 6.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:23.692	ID:11	[tabla de vecinos] 12.0
+01:23.693	ID:11	[tabla de vecinos] 6.0
+01:23.805	ID:10	broadcast message received from 15.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:23.807	ID:10	[tabla de vecinos] 15.0
+01:23.824	ID:14	broadcast message received from 15.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:23.826	ID:14	[tabla de vecinos] 15.0
+01:23.848	ID:20	broadcast message received from 15.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:23.850	ID:20	[tabla de vecinos] 15.0
+01:25.819	ID:23	broadcast message received from 24.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:25.821	ID:23	[tabla de vecinos] 24.0
+01:25.823	ID:23	[tabla de vecinos] 18.0
+01:25.833	ID:9	broadcast message received from 8.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:25.835	ID:9	[tabla de vecinos] 8.0
+01:25.836	ID:9	[tabla de vecinos] 14.0
+01:25.843	ID:25	broadcast message received from 24.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:25.845	ID:25	[tabla de vecinos] 24.0
+01:25.847	ID:25	[tabla de vecinos] 20.0
+01:25.899	ID:3	broadcast message received from 8.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:25.901	ID:3	[tabla de vecinos] 8.0
+01:25.902	ID:7	broadcast message received from 8.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.25, distance 81
+01:25.903	ID:3	[tabla de vecinos] 2.0
+01:25.904	ID:7	[tabla de vecinos] 8.0
+01:25.905	ID:7	[tabla de vecinos] 6.0
+01:25.972	ID:16	broadcast message received from 11.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:25.974	ID:16	[tabla de vecinos] 11.0
+01:26.023	ID:3	broadcast message received from 2.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.025	ID:3	[tabla de vecinos] 8.0
+01:26.026	ID:3	[tabla de vecinos] 2.0
+01:26.071	ID:23	broadcast message received from 18.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.073	ID:23	[tabla de vecinos] 24.0
+01:26.074	ID:23	[tabla de vecinos] 18.0
+01:26.087	ID:5	broadcast message received from 4.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.089	ID:5	[tabla de vecinos] 4.0
+01:26.091	ID:5	[tabla de vecinos] 10.0
+01:26.095	ID:19	broadcast message received from 18.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.097	ID:19	[tabla de vecinos] 24.0
+01:26.098	ID:19	[tabla de vecinos] 18.0
+01:26.100	ID:19	[tabla de vecinos] 20.0
+01:26.124	ID:6	broadcast message received from 1.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.126	ID:6	[tabla de vecinos] 1.0
+01:26.281	ID:21	broadcast message received from 16.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.283	ID:21	[tabla de vecinos] 16.0
+01:26.285	ID:21	[tabla de vecinos] 22.0
+01:26.308	ID:17	broadcast message received from 16.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.310	ID:17	[tabla de vecinos] 18.0
+01:26.312	ID:17	[tabla de vecinos] 16.0
+01:26.316	ID:11	broadcast message received from 16.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.318	ID:11	[tabla de vecinos] 12.0
+01:26.320	ID:11	[tabla de vecinos] 6.0
+01:26.321	ID:11	[tabla de vecinos] 16.0
+01:26.338	ID:15	broadcast message received from 10.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.340	ID:15	[tabla de vecinos] 10.0
+01:26.341	ID:5	broadcast message received from 10.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.342	ID:15	[tabla de vecinos] 20.0
+01:26.342	ID:5	[tabla de vecinos] 4.0
+01:26.344	ID:5	[tabla de vecinos] 10.0
+01:26.400	ID:7	broadcast message received from 12.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.402	ID:7	[tabla de vecinos] 8.0
+01:26.403	ID:7	[tabla de vecinos] 6.0
+01:26.405	ID:7	[tabla de vecinos] 12.0
+01:26.536	ID:24	broadcast message received from 19.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.537	ID:24	[tabla de vecinos] 19.0
+01:26.575	ID:18	broadcast message received from 17.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.577	ID:18	[tabla de vecinos] 17.0
+01:26.593	ID:12	broadcast message received from 17.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.595	ID:12	[tabla de vecinos] 17.0
+01:26.599	ID:16	broadcast message received from 17.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.601	ID:16	[tabla de vecinos] 11.0
+01:26.603	ID:16	[tabla de vecinos] 17.0
+01:26.786	ID:24	broadcast message received from 23.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.788	ID:24	[tabla de vecinos] 19.0
+01:26.788	ID:22	broadcast message received from 23.0 with seqno 2, RSSI 65455, LQI 37, avg seqno gap 1.00, distance 81
+01:26.789	ID:24	[tabla de vecinos] 23.0
+01:26.790	ID:22	[tabla de vecinos] 17.0
+01:26.792	ID:22	[tabla de vecinos] 23.0
+02:51.442	ID:1	1.0: rdipro sending 'Hej', with seq no. 0 and longest-distance neighbor 81
+02:51.442	ID:1	sent
+02:51.483	ID:2	recv 'Hej', from 1.0 (origin 1.0) in 0 hops (seq 0) 
+02:51.492	ID:2	2.0: rdipro rebroadcasting 1.0/0 (0.0/0) hops 0 (won with 29 vs 80) (my furthest neighbor is at 81)
+02:51.494	ID:2	2.0: rdipro send to ipolite
+02:51.496	ID:6	recv 'Hej', from 1.0 (origin 1.0) in 0 hops (seq 0) 
+02:51.499	ID:6	lost with 81 vs 80
+02:52.385	ID:2	sent
+02:52.521	ID:3	recv 'Hej', from 2.0 (origin 1.0) in 1 hops (seq 0) 
+02:52.524	ID:7	recv 'Hej', from 2.0 (origin 1.0) in 1 hops (seq 0) 
+02:52.530	ID:3	3.0: rdipro rebroadcasting 1.0/0 (0.0/0) hops 1 (won with 29 vs 80) (my furthest neighbor is at 81)
+02:52.532	ID:3	3.0: rdipro send to ipolite
+02:52.532	ID:7	7.0: rdipro rebroadcasting 1.0/0 (0.0/0) hops 1 (won with 29 vs 80) (my furthest neighbor is at 81)
+02:52.535	ID:7	7.0: rdipro send to ipolite
+02:53.423	ID:3	sent
+02:53.425	ID:7	sent
